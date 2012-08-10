@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>My Octopress Blog</title>
+  <title>WordPressのソースコードリーディング(2) - My Octopress Blog</title>
   <meta name="author" content="Your Name">
 
   
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://kunishi.github.com">
+  <link rel="canonical" href="http://kunishi.github.com/blog/2012/08/10/wordpress-code-reading-2">
   <link href="/favicon.ico" rel="icon">
   
   <link href="/assets/bootstrap/css/spacelab.min.css" rel="stylesheet" type="text/css">
@@ -88,15 +88,12 @@
     </header>
     <div id="main">
       <div id="content">
-        <div class="blog-index">
-  
-  
-  
-    <article>
-      
+        <div class="row">
+  <div class="span8">
+    
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/08/10/wordpress-code-reading-2/">WordPressのソースコードリーディング(2)</a></h1>
+      <h1 class="entry-title">WordPressのソースコードリーディング(2)</h1>
     
     
       <p class="meta">
@@ -119,6 +116,8 @@
   </header>
 
 
+  
+  
   <div class="entry-content"><p>昨日の続き。</p>
 
 <h2>wp-config-sample.php</h2>
@@ -180,22 +179,18 @@
 
 <p>デバッグモードの設定。今は飛ばしておいてよさそう。</p>
 </div>
-  
+
   
 
 
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/08/10/reading-wordpress-source-code/">Wordpressのソースコードを読む(1)</a></h1>
-    
-    
+    <footer>
       <p class="meta">
         
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+        
 
 
 
@@ -207,56 +202,44 @@
   
 
 
-<time datetime="2012-08-10T02:57:00+09:00" pubdate data-updated="true">Aug 10<span>th</span>, 2012</time>
+<time datetime="2012-08-10T09:38:00+09:00" pubdate data-updated="true">Aug 10<span>th</span>, 2012</time>
+        
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/wordpress/'>wordpress</a>
+  
+</span>
+
+
+      </p>
+      
+        <div class="sharing">
+  <br/>
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://kunishi.github.com/blog/2012/08/10/wordpress-code-reading-2/" data-via="" data-counturl="http://kunishi.github.com/blog/2012/08/10/wordpress-code-reading-2/" >Tweet</a>
+  
+  
+  
+</div>
+
+      
+      <p class="meta">
+        
+          <a class="basic-alignment left" href="/blog/2012/08/10/reading-wordpress-source-code/" title="Previous Post: Wordpressのソースコードを読む(1)">&laquo; Wordpressのソースコードを読む(1)</a>
+        
         
       </p>
+    </footer>
     
-  </header>
-
-
-  <div class="entry-content"><p>とりあえず読み始めた。</p>
-
-<h2>ソースコードの用意</h2>
-
-<p>オリジナルのレポジトリは<a href="http://core.svn.wordpress.org/trunk/">wordpress.orgのsubversionレポジトリ</a>にある。いまどきsubversionは辛い。</p>
-
-<p>しかし、このレポジトリをGitにしたものが<a href="https://github.com/WordPress/WordPress">Githubで公開</a>されている。15分ごとにオリジナルのレポジトリと同期するようだ。今回の目的にはこれで充分である。</p>
-
-<h2>index.php</h2>
-
-<p>https://github.com/WordPress/WordPress/blob/master/index.php</p>
-
-<p>WP_USE_THEMES を true にしてwp-blog-header.phpをrequireしているだけ。</p>
-
-<h2>wp-blog-header.php</h2>
-
-<p>https://github.com/WordPress/WordPress/blob/master/wp-blog-header.php</p>
-
-<p>$wp_did_headerという変数がセットされているかチェックしたり、セットされていなければtrueにしたりしているが、とりあえずこれは保留。</p>
-
-<p>その後、wp-load.phpをrequire_onceし、関数wp()を実行し、template-loader.phpをrequire_once。まずwp-load.phpに行くことにする。</p>
-
-<h2>wp-load.php</h2>
-
-<p>https://github.com/WordPress/WordPress/blob/master/wp-load.php</p>
-
-<p>主にwp-config.phpのロード。なければエラーメッセージを出し、wp-config.php自動生成用PHPであるsetup-config.phpへのリンクを示して終了。</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
     
   </div>
-</div>
-<aside class="sidebar">
+
   
-    <section>
+  <div class="span4 sidebar">
+    <div class="well">
+      
+        <section>
   <h2>Recent Posts</h2>
   <ul id="recent_posts">
     
@@ -276,8 +259,12 @@
 
 
 
-  
-</aside>
+      
+    </div>
+  </div>
+
+</div>
+
 
       </div>
     </div>
