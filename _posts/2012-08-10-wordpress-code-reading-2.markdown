@@ -2,8 +2,6 @@
 layout: post
 title: "WordPressのソースコードリーディング(2)"
 date: 2012-08-10 09:38
-comments: true
-categories: wordpress
 ---
 昨日の続き。
 

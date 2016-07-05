@@ -2,8 +2,6 @@
 layout: post
 title: "Wordpressのソースコードを読む(1)"
 date: 2012-08-10 02:57
-comments: true
-categories: wordpress
 ---
 とりあえず読み始めた。
 
