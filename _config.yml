@@ -19,5 +19,5 @@ twitter_username: kunishi
 github_username:  kunishi
 
 # Build settings
-exclude: ["Gemfile", "Gemfile.lock", "vendor"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "script"]
 markdown: kramdown
