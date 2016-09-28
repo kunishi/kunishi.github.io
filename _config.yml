@@ -21,3 +21,5 @@ github_username:  kunishi
 # Build settings
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "script"]
 markdown: kramdown
+gems:
+  - jekyll-sitemap
