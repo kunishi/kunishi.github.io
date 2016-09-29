@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+tags: header
 ---
 I, Takeo Kunishima, am working on Okayama Prefectural University, Japan, 
 as an associate professor and a researcher.  I also have much interest
