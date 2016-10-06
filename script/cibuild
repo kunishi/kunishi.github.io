@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
 
+gem install bundler
 bundle exec jekyll build
 bundle exec htmlproofer ./_site --allow-hash-href
