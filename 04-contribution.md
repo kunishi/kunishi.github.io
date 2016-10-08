@@ -61,7 +61,7 @@ permalink: /contribution/
 - 第10回データ工学ワークショップ（DEWS'99） プログラム委員
 - Program Committee Member, International Symposium on Digital Media Information Base (DMIB'97)（1997）
 
-## 執筆、講演
+## 執筆、講演、講師
 
 - 國島丈生, 日曜大工的XML入門 - XMLってどんなもの, FreeBSD PRESS, Vol.13, 毎日コミュニケーションズ, 2002.10.
 - 國島丈生, 日曜大工的XML入門 - EmacsでXMLライティング, FreeBSD PRESS, Vol.14, 毎日コミュニケーションズ, 2002.12.
@@ -69,8 +69,9 @@ permalink: /contribution/
 - 國島丈生, 日曜大工的XML入門 - XSLT, FreeBSD PRESS, Vol.16, 毎日コミュニケーションズ, 2003.04.
 - 國島丈生, 日曜大工的XML入門 - HTMLからXHTMLへ, FreeBSD PRESS, Vol.17, 毎日コミュニケーションズ, 2003.06.
 - 「XMLデータベースひとめぐり」, オープンセミナー@岡山, 2009.05. (発表資料)
+- 吉備創生カレッジ平成27年度後期講師（2015年11月〜12月）
 
-# Webサイト・Webアプリケーションの構築・運用実績
+## Webサイト・Webアプリケーションの構築・運用実績
 
 - 奈良先端科学技術大学院大学情報科学研究科言語設計学講座（1994 - 1997）
 - 日本データベース学会Webサイト（2002 - 2013）
