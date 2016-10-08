@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 履歴書 (Curriculum Vitae）
+title: 履歴
 ---
 ## 学歴
 
