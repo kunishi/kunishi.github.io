@@ -1,5 +1,7 @@
-# 履歴書（Curriculum Vitae）
-
+---
+layout: page
+title: 履歴書 (Curriculum Vitae）
+---
 ## 学歴
 
 1985.03. 私立洛星高等学校卒業
