@@ -2,6 +2,7 @@
 layout: page
 title: 研究業績
 tags: header
+permalink: /research/
 ---
 ## 研究分野
 

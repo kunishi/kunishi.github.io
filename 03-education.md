@@ -2,6 +2,7 @@
 layout: page
 title: 教育
 tags: header
+permalink: /education/
 ---
 ## 担当講義
 

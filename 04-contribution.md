@@ -2,6 +2,7 @@
 layout: page
 title: 社会貢献
 tags: header
+permalink: /contribution/
 ---
 ## 学会活動
 
