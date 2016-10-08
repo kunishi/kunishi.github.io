@@ -11,7 +11,7 @@ email: t.kunishi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   software meister, educator
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://kunishi.github.io" # the base hostname & protocol for your site
 timezone: Asia/Tokyo
 twitter_username: kunishi
 github_username:  kunishi
