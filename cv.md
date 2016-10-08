@@ -33,7 +33,9 @@ Webアプリケーション、構造化文書処理、Web工学
 
 別ページにまとめています。
 
-[Google Scholar Citations](https://scholar.google.co.jp/citations?user=3gaBqWUAAAAJ&hl=ja)
+<p>
+  <a href="https://scholar.google.co.jp/citations?user=3gaBqWUAAAAJ&hl=ja" data-proofer-ignore>Google Scholar Citations</a>
+</p>
 
 ## 学会活動
 
