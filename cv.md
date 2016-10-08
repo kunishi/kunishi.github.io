@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV(JP)
+title: 履歴書
 tags: header
 ---
 ## 学歴
