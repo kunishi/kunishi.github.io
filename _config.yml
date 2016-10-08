@@ -20,7 +20,5 @@ github_username:  kunishi
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "script"]
 markdown: kramdown
 theme: minima
-footer_links:
-  linkedin: takeokunishima
 gems:
   - jekyll-sitemap
