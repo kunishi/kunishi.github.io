@@ -21,6 +21,12 @@ permalink: /research/
 1. 横田一正, 國島丈生, 劉渤江（編）: 第13回データ工学ワークショップ（DEWS2002）論文集. ISSN 1347-4413, 2002.  http://www.ieice.org/iss/de/DEWS/proc/2002/index.html 
 1. 上林弥彦編著, 有川正俊, 國島丈生, 木實新一, 高田秀志, 宮部義幸共著: ハイパーメディアとオブジェクトベース. 分散協調メディアシリーズ4, ISBN4-320-02765-5, 共立出版, 1995.11. (出版社のページ)
 
+### 招待講演
+
+1. 國島丈生, 「HTML5の過去、現在、未来」, 情報処理学会デジタルドキュメント研究会第73回研究会, 2009-DD-73(5), pp.1-1, 2009.09. (発表資料)
+1. 國島丈生, チュートリアル「XML（再）入門」, 電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会, 2008.12. (サポートページを用意しています)
+1. 國島丈生, VLDB2002国際会議報告, ACM SIGMOD日本支部第24回支部大会, 2002年11月
+
 ### 学術論文
 
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima, A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots, The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016), Sept. 2016.
@@ -160,12 +166,6 @@ permalink: /research/
 1. 國島丈生, 古川哲也, 上林彌彦, オブジェクト指向データベースの会話的設計支援方式. 情報処理学会第44回全国大会, Mar.1992.
 1. 国島丈生, 石垣博康, 上林弥彦, Virtual Officeにおける仮想オフィス間の通信機能. 情報処理学会第44回全国大会, Mar. 1992.
 1. 國島丈生, 上林彌彦, 論理型言語HILOG-RのCADデータベースへの応用. 情報処理学会第43回全国大会, Oct.1991.
-
-### 招待講演
-
-1. 國島丈生, 「HTML5の過去、現在、未来」, 情報処理学会デジタルドキュメント研究会第73回研究会, 2009-DD-73(5), pp.1-1, 2009.09. (発表資料)
-1. 國島丈生, チュートリアル「XML（再）入門」, 電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会, 2008.12. (サポートページを用意しています)
-1. 國島丈生, VLDB2002国際会議報告, ACM SIGMOD日本支部第24回支部大会, 2002年11月
 
 ## 外部資金獲得状況
 
