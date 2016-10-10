@@ -227,8 +227,8 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 [2016年度人工知能学会全国大会(第30回)](http://www.ai-gakkai.or.jp/jsai2016), 1O2-1, 2016年6月.
 1. 吉川敦史, 岩橋直人, 船越孝太郎, 國島丈生. 線形SVMによる識別器要素モデルの結合係数の最適化.
 [2016年電子情報通信学会総合大会](http://www.ieice.org/jpn/event/program/2016G/index.html), D-20-3, 九州大学, 2016年3月15日.
-1. 牧野知也, 岩橋直人, 國島丈生, 中村友昭, ⻑井隆行. 強化学習と期待効用最大化と階層ディリクレ過程に基づくロボットによる最適支援行動選択と場所の分節化.
-[HAIシンポジウム2015](http://hai-conference.net/symp2015/), 東京大学, 2015年12月5日〜6日.
+1. 牧野知也, 岩橋直人, 國島丈生, 中村友昭, ⻑井隆行. [強化学習と期待効用最大化と階層ディリクレ過程に基づくロボットによる最適支援行動選択と場所の分節化.](http://hai-conference.net/symp2015/proceedings/html/paper/paper-G-13.html)
+[HAIシンポジウム2015](http://hai-conference.net/symp2015/), G-13, pp.80-85, ISSN 1882-5346, 東京大学, 2015年12月5日〜6日.
 1. 牧野知也, 岩橋直人, 国島丈生. 強化学習と期待効用最大化に基づくロボットによる人間の行動予測と最適支援行動選択.
 [第17回IEEE広島学生シンポジウム(HISS2015)](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), B-70, pp.501-505, 岡山大学, 2015年11月21日〜22日. (HISS優秀論文賞)
 1. 坂本伸次, 植田紗也佳, 岩橋直人, 国島丈生. 統計的機械翻訳技術に基づくロボットの言語獲得.
