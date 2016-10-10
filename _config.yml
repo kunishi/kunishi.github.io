@@ -9,7 +9,7 @@
 title: Takeo Kunishima/国島丈生
 email: t.kunishi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  software meister, educator
+ 70% a software meister, 30% an educator
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kunishi.github.io" # the base hostname & protocol for your site
 timezone: Asia/Tokyo
