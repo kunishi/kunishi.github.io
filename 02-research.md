@@ -48,7 +48,9 @@ A Language Acquisition Method Based on Statistical Machine Translation for Appli
 1. 田村晃一, 池田隼, 國島丈生, 横田一正. [パノラマ画像の4次元配置による仮想空間の拡張](http://ci.nii.ac.jp/naid/40015217340). 日本データベース学会Letters, Vol.6, No.1, pp.101-104. 2007年6月.
 1. 池田隼, 國島丈生, 横田一正. [パノラマ画像を用いた仮想空間構築](http://ci.nii.ac.jp/naid/40015217340), 日本データベース学会Letters Vol.5, No.1, pp.97-100, 2006年6月.
 1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正. [利用者指向ディジタルミュージアムの共有化とモジュール化](http://ci.nii.ac.jp/naid/40007025097), 日本データベース学会Letters, Vol.3, No.1, pp.137-140, 2004年6月.
-1. K. Yokota, T. Kunishima, A. Matono, and B. Liu. [Management of Heterogeneous Documents](https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C). Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
+1. K. Yokota, T. Kunishima, A. Matono, and B. Liu.
+<a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>Management of Heterogeneous Documents</a>.
+Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu.
 [Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626).  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
 1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
