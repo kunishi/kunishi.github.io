@@ -9,3 +9,12 @@ layout: default
 - Webアプリケーション開発 (特にサーバサイド)
 - 継続的インテグレーション、リファクタリング、テスト駆動開発
 - サーバ管理の自動化 (特に Unix, Linux)
+
+## ソーシャルメディア
+
+- <a href="https://twitter.com/kunishi" data-proofer-ignore>Twitter</a>
+- <a href="https://jp.linkedin.com/in/takeokunishima" data-proofer-ignore>LinkedIn</a>
+- <a href="https://researchmap.jp/kunishima/" data-proofer-ignore>Researchmap</a>
+- <a href="https://github.com/kunishi" data-proofer-ignore>GitHub</a>
+- <a href="https://gitlab.com/u/kunishi" data-proofer-ignore>GitLab</a>
+- <a href="https://medium.com/@kunishi" data-proofer-ignore>ブログ (Medium)</a>
