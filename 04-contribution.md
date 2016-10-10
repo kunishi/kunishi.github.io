@@ -68,8 +68,12 @@ permalink: /contribution/
 - 國島丈生, 日曜大工的XML入門 - XMLをより深く知る, FreeBSD PRESS, Vol.15, 毎日コミュニケーションズ, 2003.02.
 - 國島丈生, 日曜大工的XML入門 - XSLT, FreeBSD PRESS, Vol.16, 毎日コミュニケーションズ, 2003.04.
 - 國島丈生, 日曜大工的XML入門 - HTMLからXHTMLへ, FreeBSD PRESS, Vol.17, 毎日コミュニケーションズ, 2003.06.
-- 「XMLデータベースひとめぐり」, オープンセミナー@岡山, 2009.05. (発表資料)
+- 「XMLデータベースひとめぐり」, オープンセミナー@岡山, 2009.05.
+([発表資料](http://www.slideshare.net/kunishi/20090528-open-seminar-okayama))
 - 吉備創生カレッジ平成27年度後期講師（2015年11月〜12月）
+([発表スライド1](http://www.slideshare.net/kunishi/20151126-1),
+[発表スライド2](http://www.slideshare.net/kunishi/20151210-2),
+[発表スライド3](http://www.slideshare.net/kunishi/20151224-3))
 
 ## Webサイト・Webアプリケーションの構築・運用実績
 
