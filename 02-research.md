@@ -13,6 +13,7 @@ permalink: /research/
 [
 <a href="https://scholar.google.co.jp/citations?user=3gaBqWUAAAAJ&hl=ja" data-proofer-ignore>Google Scholar Citations</a> 
 | <a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>DBLP</a>
+| <a href="http://ci.nii.ac.jp/nrid/1000020263436" data-proofer-ignore>CiNii</a>
 ]
 
 ### 著書・翻訳書
@@ -22,92 +23,196 @@ permalink: /research/
 ISBN978-4-320-12346-5, 共立出版, 2014.09.
 1. 横田一正監訳, 國島丈生訳: <a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>XMLデータベース入門 - Data on the Web -</a>.
 ISBN4-320-12162-7, 共立出版, 2006.07.：S. Abiteboul, P. Buneman, D. Suciu著 “Data on the Web” の邦訳です。（サポートページ）
-1. 横田一正, 國島丈生, 劉渤江（編）: 第13回データ工学ワークショップ（DEWS2002）論文集. ISSN 1347-4413, 2002.  http://www.ieice.org/iss/de/DEWS/proc/2002/index.html 
+1. 横田一正, 國島丈生, 劉渤江（編）: [第13回データ工学ワークショップ（DEWS2002）論文集](http://www.ieice.org/iss/de/DEWS/proc/2002/index.html). ISSN 1347-4413, 2002.
 1. 上林弥彦編著, 有川正俊, 國島丈生, 木實新一, 高田秀志, 宮部義幸共著:
 <a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>ハイパーメディアとオブジェクトベース. 分散協調メディアシリーズ4</a>,
 ISBN4-320-02765-5, 共立出版, 1995.11.
 
 ### 招待講演
 
-1. 國島丈生, 「HTML5の過去、現在、未来」, 情報処理学会デジタルドキュメント研究会第73回研究会, 2009-DD-73(5), pp.1-1, 2009.09. ([発表資料](http://www.slideshare.net/kunishi/20090925-html5))
+1. 國島丈生.
+[HTML5の過去、現在、未来](http://ci.nii.ac.jp/naid/110007991258).
+情報処理学会研究報告デジタルドキュメント(DD) 2009-DD-73(5), pp.1-1, 2009年9月18日.
+([発表資料](http://www.slideshare.net/kunishi/20090925-html5))
 1. 國島丈生, チュートリアル「XML（再）入門」, 電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会, 2008.12. (サポートページを用意しています)
 1. 國島丈生, VLDB2002国際会議報告, ACM SIGMOD日本支部第24回支部大会, 2002年11月
 
 ### 学術論文
 
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima, A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots, The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016), Sept. 2016.
-1. 小宮山哲, 國島丈生, 横田一正. コンテンツ演出のためのシナリオ記述言語. 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007. (学会ページ)
-1. 桑原理, 鷲見京子, 國島丈生, 横田一正. 利用者指向ディジタルミュージアムの大規模実証実験と考察. 日本データベース学会Letters, Vol.6, No.1, pp.105-108. June 2007. (学会ページ)
-1. 田村晃一, 池田隼, 國島丈生, 横田一正. パノラマ画像の4次元配置による仮想空間の拡張. 日本データベース学会Letters, Vol.6, No.1, pp.101-104. June 2007. (学会ページ)
-1. 池田隼, 國島丈生, 横田一正. パノラマ画像を用いた仮想空間構築, 日本データベース学会Letters Vol.5, No.1, pp.97-100, July 2006. (学会ページ)
-1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正. 利用者指向ディジタルミュージアムの共有化とモジュール化, 日本データベース学会Letters, Vol.3, No.1, pp.137-140, June. 2004. (学会ページ)
+1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月.
+1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
+1. 田村晃一, 池田隼, 國島丈生, 横田一正. [パノラマ画像の4次元配置による仮想空間の拡張](http://ci.nii.ac.jp/naid/40015217340). 日本データベース学会Letters, Vol.6, No.1, pp.101-104. 2007年6月.
+1. 池田隼, 國島丈生, 横田一正. [パノラマ画像を用いた仮想空間構築](http://ci.nii.ac.jp/naid/40015217340), 日本データベース学会Letters Vol.5, No.1, pp.97-100, 2006年6月.
+1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正. [利用者指向ディジタルミュージアムの共有化とモジュール化](http://ci.nii.ac.jp/naid/40007025097), 日本データベース学会Letters, Vol.3, No.1, pp.137-140, 2004年6月.
 1. K. Yokota, T. Kunishima, A. Matono, and B. Liu. Management of Heterogeneous Documents. Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu. Semantic Extensions of XML for Advanced Applications.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
-1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  Towards Integrated Management of Heterogeneous Documents.  Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999) 
-1. 國島丈生, 横田一正, Workflow Base: データベース技術に基づくワークフローモデル, 情報処理学会論文誌, Vol. 39, No. 11, pp.3121-3130, Nov. 1998.
+1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
+[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99).
+Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999) 
+1. 國島丈生, 横田一正.
+[Workflow Base: データベース技術に基づくワークフローモデル](http://ci.nii.ac.jp/naid/110002722306).
+情報処理学会論文誌, Vol. 39, No. 11, pp.3122-3130, 1998年11月.
 1. Takeo Kunishima and Kazumasa Yokota, Flexible Workflow Framework for Supporting Collaborative Works, Cooperative Databases for Advanced Applications, eds. by Y. Kambayashi and K. Yokota, pp.412-419, World Scientific, June, 1997.
 1. Takeo Kunishima, Resource Constraints on Workflow Databases, Advanced Database Systems for Integration of Media and User Environments '98, pp. 293-298, World Scientific, Apr. 1997.
-1. Takeo Kunishima and Kazumasa Yokota, An Agent-Based Coordination Model on Workflow Databases. In Proceedings of 4th International Conference on Object-Oriented Information Systems (OOIS'97), pp.361-371, Springer, Brisbane Queensland Australia, Nov. 1997.
-1. Kazumasa Yokota, Yutaka Banjou, Takashi Kuroda, and Takeo Kunishima, Extensions of Query Processing Facitilies in Mediator Systems. Proceedings of International Workshop on Knowledge Representation Meets Databases (KRDB'97), Athene, pp.17.1-17.8, Aug. 1997.
-1. Takeo Kunishima and Kazumasa Yokota, Flexible Workflow Frameworks for Supporting Collaborative Work. In Proceedings of International Symposium on Cooperative Database Systems for Advanced Applications (CODAS'96), Kyoto, pp. 412-419, Dec. 1996.
-1. Yahiko Kambayashi, Qiming Chen and Takeo Kunishima, Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems. Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 1992.
-1. 成瀬正, 斎藤隆文, 國島丈生, n球包含問題の近似解法. 電子情報通信学会論文誌 Vol. J73-DII, No.10, pp.1792-1795, Oct. 1990. 
+1. Takeo Kunishima and Kazumasa Yokota.
+[An Agent-Based Coordination Model on Workflow Databases](http://dblp.org/rec/conf/oois/KunishimaY97).
+In Proceedings of 4th International Conference on Object-Oriented Information Systems (OOIS'97), pp.361-371, Springer, Brisbane Queensland Australia, Nov. 1997.
+1. Kazumasa Yokota, Yutaka Banjou, Takashi Kuroda, and Takeo Kunishima.
+[Extensions of Query Processing Facitilies in Mediator Systems](http://dblp.org/rec/conf/krdb/YokotaBKK97).
+Proceedings of International Workshop on Knowledge Representation Meets Databases (KRDB'97), Athene, pp.17.1-17.8, Aug. 1997.
+1. Takeo Kunishima and Kazumasa Yokota.
+[Flexible Workflow Frameworks for Supporting Collaborative Work](http://dblp.org/rec/conf/codas/KunishimaY96).
+In Proceedings of International Symposium on Cooperative Database Systems for Advanced Applications (CODAS'96), Kyoto, pp. 412-419, Dec. 1996.
+1. Yahiko Kambayashi, Qiming Chen and Takeo Kunishima.
+[Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems](http://dblp.org/rec/conf/future/KambayashiCK92).
+Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 1992.
+1. 成瀬正, 斎藤隆文, 國島丈生.
+[n球包含問題の近似解法](http://ci.nii.ac.jp/naid/40004782577).
+電子情報通信学会論文誌 Vol. J73-DII, No.10, pp.1792-1795, 1990年10月. 
 
 ### 技術報告(第1著者分)
 
 1. 國島丈生. 情報技術による介護・看護支援プロジェクト. Webとデータベースに関するフォーラム (WebDB Forum 2010), I2, Nov. 2010. (ポスター発表)
-1. 国島丈生, 横田一正, 山根知子. 文学作品成立論のためのデータベース構築に向けて - 坪田譲治作品による試み -. 電子情報通信学会技術研究報告 DE2007-36, 情報処理学会研究報告IPSJ-DBS07143015, July 2007.
-1. 国島丈生, 貴志聰一郎, 三戸健二, 室山恵美, 横田一正.  意味的拡張XMLの処理系の実装と考察.  電子情報通信学会技術研究報告 DE2001-14, Jun. 2001.
-1. 國島丈生, 鈴木美沙, 宮川由香, 横田一正.  構造化文書の設計の異種性解消のための「文書群」の導入と検索機能の実現.  情報処理学会データベースシステム研究会, 東京, May 2000.
-1. 國島丈生, 横田一正, 白木善隆, 劉渤江.  XML リンク機能による異種文書の統合方式.  情報処理学会研究会報告 99-DBS-117-7, 白浜、1999年1月.
-1. 国島丈生, ワークフローモデルWorkFlow Baseに基づく分散DTP支援環境の構想, 情報処理学会データベースシステム研究会, 1998-DBS-58, pp.257-264, July 1998.
+1. 国島丈生, 横田一正, 山根知子.
+[文学作品成立論のためのデータベース構築に向けて - 坪田譲治作品による試み -](http://ci.nii.ac.jp/naid/110006381601).
+情報処理学会研究報告データベースシステム(DBS) 2007-DBS-143 (電子情報通信学会技術研究報告 DE, データ工学 107(131)), pp.85-89, 2007年7月2日.
+1. 国島丈生, 貴志聰一郎, 三戸健二, 室山恵美, 横田一正.
+[意味的拡張XMLの処理系の実装と考察](http://ci.nii.ac.jp/naid/110003189059).
+電子情報通信学会技術研究報告 DE, データ工学 101(110), pp.105-112, 2001年6月5日.
+1. 國島丈生, 鈴木美沙, 宮川由香, 横田一正.
+[構造化文書の設計の異種性解消のための「文書群」の導入と検索機能の実現](http://ci.nii.ac.jp/naid/110002931196).
+情報処理学会研究報告データベースシステム(DBS) 2000-DBS-121 (情報処理学会研究報告情報学基礎(FI) 2000-FI-058), pp.137-144, 2000年5月25日.
+1. 國島丈生, 横田一正, 白木善隆, 劉渤江.
+[XML リンク機能による異種文書の統合方式](http://ci.nii.ac.jp/naid/110002931059).
+情報処理学会研究報告データベースシステム(DBS) 1998-DBS-117 (電子情報通信学会技術研究報告 DE, データ工学 98(560)), pp.39-45, 1999年1月22日.
+1. 国島丈生.
+[ワークフローモデルWorkFlow Baseに基づく分散DTP支援環境の構想](http://ci.nii.ac.jp/naid/110002930850).
+情報処理学会研究報告データベースシステム(DBS) 1998-DBS-116, pp.257-264, 1998年7月8日.
 1. 国島丈生, ワークフローモデル Workflow Base における演算子群, 文部省科学研究費重点領域研究「高度データベース」重点ワークショップ 論文集, Jun. 1997
 1. 国島丈生, ワークフロー管理システムとデータベース技術の融合, 文部省科学研究費重点領域研究「高度データベース」公開シンポジウム論文集, Jan. 1997
-1. 国島丈生, 上林弥彦, ワークフロー管理システム WorkFlowBaseにおけるワークフローデータモデル. 情報処理学会第104回データベースシステム研究会研究会報告, DBS104-41, Jul. 1995.
+1. 国島丈生, 上林弥彦.
+[ワークフロー管理システムWorkFlowBaseにおけるワークフローデータモデル](http://ci.nii.ac.jp/naid/110002931052).
+情報処理学会研究報告データベースシステム(DBS) 1995-DBS-104, pp.319-326, 1995年7月18日.
 1. 國島丈生, 松本忍, 荻野博幸, 平石裕実, 矢島脩三, マルチスクリーングラフィクスMCMSシステムを用いた論理回路設計支援. 情報処理学会「グラフィクスとCAD」シンポジウム論文集, pp.227-236, Nov.1989.
 
 ### 技術報告(共著)
 
-1. 高渕健太, 岩橋直人, 國島丈生. 動画像情報と音声情報のシーケンス変換学習に基づく言語獲得. 情報処理学会自然言語処理研究会, 2016-NL-228(10), 1-4 (2016-07-22), 2188-8799, 2016年7月.
-1. 定免睦昌, 國島丈生, 横田一正. ユーザのデスクトップ操作履歴に基づくファイル関連管理手法. 第84回情報処理学会デジタルドキュメント研究会, Jan. 2012. 
-1. 吉原優輔, 佐藤智美, 渡谷真以, 國島丈生, 横田一正. 足守プロジェクト: 仮想空間システムによる文化的景観のディジタル化. 第84回情報処理学会デジタルドキュメント研究会, Jan. 2012.
-1. 渡谷真以, 上田文太, 小宮山哲, 國島丈生, 横田一正. パノラマ仮想空間PasQにおける履歴共有機能の実現. 第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011), D9-5, Mar. 2011.
-1. 定免睦昌, 國島丈生, 横田和正. 複数タスク環境におけるユーザ操作に基づくファイル間関連度の導出. 第2回データ工学と情報マネジメントに関するフォーラム (DEIM2010), D1-3, Mar 2010.
-1. 有安浩平, 池田絵里, 岡本辰夫, 國島丈生, 横田一正. 学習者に合わせたC言語演習穴埋め問題の自動生成. 第1回データ工学と情報マネジメントに関するフォーラム (DEIM2009), Mar. 2009.
-1. 結城敬介, 岡本辰夫, 國島丈生, 横田一正.  C言語学習のためのuラーニング環境の提案. 第1回データ工学と情報マネジメントに関するフォーラム (DEIM2009), Mar.2009.
-1. 小宮山哲, 国島丈生, 横田一正. コンテンツ演出のためのシナリオ記述言語. 電子情報通信学会技術研究報告 DE2007-48, 情報処理学会研究報告  IPSJ-DBS07143027, July 2007.
-1. 岸本健太郎, 池田隼, 國島丈生, 横田一正. パノラマ仮想空間によるディジタルミュージアムの構築. 電子情報通信学会技術研究報告 DE2007-61, 情報処理学会研究報告 IPSJ-DBS07143040, July 2007.
-1. 桑原理, 國島丈生, 横田一正. 所蔵品検索システムに基づいたディジタルミュージアム. 電子情報通信学会技術研究報告 DE2007-63, 情報処理学会研究報告 IPSJ-DBS07143042, July 2007.
-1. 池田隼, 國島丈生, 横田一正, パノラマ画像による仮想3D空間基盤の構築, 電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-4, 2007. (PDF)
-1. 田村晃一, 池田隼, 國島丈生, 横田一正, パノラマ画像の4次元配置による仮想空間の拡張, 電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-5, 2007. (PDF)
-1. 桑原理, 鷲見京子, 國島丈生, 横田一正, 利用者指向ディジタルミュージアムの大規模実証実験と考察, 電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-6, 2007. (PDF)
-1. 小西裕, 大谷英司, 劉渤江, 國島丈生, 横田一正, 教材作成支援のための教材部品共有システムの提案, 電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, C7-8, 2007. (PDF)
-1. 小西裕, 延原哲也, 劉渤江, 国島丈生, 横田一正.  eラーニングにおける学習シーケンシングの妥当性検証.  DBWS2006, A1-3, July 12-14, 2006.
-1. 西輝之, 横田一正, 国島丈生, 劉渤江, 延原哲也.  適応型e-ラーニングに必要な診断的テスト機構.  DBWS2006, A1-3, July 12-14, 2006.
-1. 池田隼, 難波公一郎, 粟田智子, 国島丈生, 横田一正.  パノラマ画像を用いた仮想空間の構築.  電子情報通信学会第17回データ工学ワークショップ論文集, ISSN1347-4413, 4B-i12, 2006. (PDF)
-1. 庄司成臣, 小山嘉紀, 延原哲也, 劉渤江, 國島丈生, 横田一正.  eラーニングのための教材流通アーキテクチャの提案.  電子情報通信学会第16回データ工学ワークショップ論文集, ISSN1347-4413, 2B-o3, 2005. (PDF)
-1. 澤田梢, 松原幸平, 辻圭一, 国島丈生, 横田一正.  制約を用いたディジタルミュージアムのコンテンツ自動配置.  電子情報通信学会第16回データ工学ワークショップ論文集, ISSN1347-4413, 1D-d4, 2005. (PDF)
-1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正.  利用者指向ディジタルミュージアムの共有化とモジュール化.  電子情報通信学会第15回データ工学ワークショップ論文集, ISSN1347-4413, I-8-2, 2004. (PDF)
-1. 荒木学, 江本守, 国島丈生, 横田一正.  インターネット上の異種メッセージの統合.  電子情報通信学会第15回データ工学ワークショップ論文集, ISSN1347-4413, I-5-3, 2004. (PDF)
-1. 野田英志, 国島丈生, 横田一正.  ディジタルミュージアムにおける自動案内のための機能と実現方法の提案.  夏のデータベースワークショップ (DBWS2003), 網走, June 16-18, 2003
-1. 石崎勝俊, 細田昌明, 西田悟, 江本守, 国島丈生, 横田一正.  利用者志向ディジタルミュージアムの実現.  夏のデータベースワークショップ (DBWS2003), 網走, June 16-18, 2003
-1. 細田昌明, 那須正裕, 野田英志, 松原幸平, 国島丈生, 横田一正.  論理構造をもつマルチメディア情報の利用者提示の実現.  電子情報通信学会第14回データ工学ワークショップ論文集, 2003.
-1. 岡本辰夫, 國島丈生, 横田一正.  XML操作スクリプト言語xTricsの提案.  情報処理学会DBS研究会＆電子情報通信学会DE研究会合同ワークショップ(DBWS2002), 鬼怒川、Jul. 17-19, 2002.
-1. 横田一正, 国島丈生, 江本守, 荒木雄太, 大河内久貴, 大淵滋樹, 那須正裕, 松原幸平.  XMLを基にしたシラバス管理システムの実現.  情報処理学会DBS研究会＆電子情報通信学会DE研究会合同ワークショップ(DBWS2002), 鬼怒川、Jul. 17-19, 2002.
-1. 岡本辰夫, 吉田奈美子, 國島丈生, 横田一正.  XML操作スクリプト言語による個人化手法の提案.  電子情報通信学会第13回データ工学ワークショップ論文集, Mar. 4-6, 2002.
-1. 的野晃整, 野宮一生, 板谷昌洋, 国島丈生, 横田一正.  意味的に拡張したXMLとその応用のためのデータベースエンジンの実現.  電子情報通信学会第13回データ工学ワークショップ論文集, Mar. 4-6, 2002.
-1. 藤野猛士, 石崎勝俊, 谷本奈緒美, 細田昌明, 國島丈生, 横田一正.  ユーザ適応型マルチメディア情報提示システムの実現.  電子情報通信学会第13回データ工学ワークショップ論文集, Mar. 4-6, 2002.
-1. 岡本辰夫, 劉渤江, 國島丈生, 横田一正.  マップ生成機能をもつデジタルテーマパークの実現.  夏のデータベースワークショップ2001 (DBWS2001)、July 17-19, 2001.
-1. 的野晃整, 板谷昌洋, 横田一正, 國島丈生, 劉勃江.  データベース概念を組み込んだXMLのための問合せ言語.  電子情報通信学会技術研究報告 DE2001-13、June 12, 2001.
-1. 横田一正, 國島丈生, 劉渤江.  異種文書管理のための問合せ機構の考察.  情報処理学会データベースシステム研究会＆電子情報通信学会データ工学研究会合同ワークショップ, 花巻、Jul., 2000.
-1. 杉本健二, 緒方啓孝, 的野晃整, 平野尚孝, 横田一正, 國島丈生.  対話的マルチメディア情報提示システム実現のための QUIK の拡張.  情報処理学会データベースシステム研究会, 東京, 2000年5月25-26日.
-1. 藤野猛士, 野宮一生, 横田一正, 國島丈生, 三宅忠明.  構造化文書に基づいた対話的戯曲提示システムの実現.  情報処理学会データベースシステム研究会、東京、2000年5月25-26日.
-1. 横田一正, 三宅忠明, 國島丈生, 劉渤江, 田槙明子.  文学データベースのための文書の構造化と意味管理.  第5回公開シンポジウム「人文科学とデータベース」、pp.47-58、大阪、1999年12月.
-1. 三宅忠明, 横田一正, 國島丈生, 田槙明子.  ケルトの悲恋ロマンス「デァドラ」における資料の言語分析.  人文科学とコンピュータ99シンポジウム、pp.103-104、大阪、1999年9月.
-1. 劉渤江, 横田一正, 國島丈生, 三宅忠明.  異種文書の統合のための意味とリンクの管理機構.  電子情報通信学会データ工学ワークショップ, 5B-2, 鹿児島, Mar. 1999.
-1. 横田一正, 萬上裕, 黒田崇, 國島丈生, QUIKメディエータにおけるオブジェクト再考. 情報処理学会第113回データベースシステム研究会研究会報告, DBS113-54, pp. 323-328, July 1997.
+1. 高渕健太, 岩橋直人, 國島丈生.
+[動画像情報と音声情報のシーケンス変換学習に基づく言語獲得](http://id.nii.ac.jp/1001/00169955/).
+情報処理学会研究報告自然言語処理(NL), 2016-NL-228(10), pp.1-4, ISSN 2188-8799, 2016年7月22日.
+1. 定免睦昌, 國島丈生, 横田一正. 
+[ユーザタスク情報に基づくファイル関連管理手法](http://ci.nii.ac.jp/naid/170000069041).
+情報処理学会研究報告デジタルドキュメント(DD) 2012-DD-84(1), pp.1-7, 2012年1月13日. 
+1. 吉原優輔, 佐藤智美, 渡谷真以, 國島丈生, 横田一正.
+[足守プロジェクト: 仮想空間システムによる文化的景観のディジタル化](http://ci.nii.ac.jp/naid/170000069046).
+情報処理学会研究報告デジタルドキュメント(DD), 2012-DD-84(6), pp.1-6, 2012年1月13日.
+1. 渡谷真以, 上田文太, 小宮山哲, 國島丈生, 横田一正.
+[パノラマ仮想空間PasQにおける履歴共有機能の実現](http://db-event.jpn.org/deim2011/proceedings/pdf/d9-5.pdf).
+第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011), D9-5, 2011年3月.
+1. 定免睦昌, 國島丈生, 横田和正.
+[複数タスク環境におけるユーザ操作に基づくファイル間関連度の導出](http://db-event.jpn.org/deim2010/proceedings/files/D1-3.pdf).
+第2回データ工学と情報マネジメントに関するフォーラム (DEIM2010), D1-3, 2010年3月.
+1. 有安浩平, 池田絵里, 岡本辰夫, 國島丈生, 横田一正.
+[学習者に合わせたC言語演習穴埋め問題の自動生成](http://db-event.jpn.org/deim2009/proceedings/files/D9-5.pdf).
+第1回データ工学と情報マネジメントに関するフォーラム (DEIM2009), D9-5, 2009年3月.
+1. 結城敬介, 岡本辰夫, 國島丈生, 横田一正.
+[C言語学習のためのuラーニング環境の提案](http://db-event.jpn.org/deim2009/proceedings/files/D9-4.pdf).
+第1回データ工学と情報マネジメントに関するフォーラム (DEIM2009), D9-4, 2009年3月.
+1. 小宮山哲, 国島丈生, 横田一正.
+[コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/110006381413).情報処理学会研究報告データベースシステム(DBS) 2007-DBS-143 (電子情報通信学会技術研究報告 DE, データ工学 107(131)), pp.157-162,,2007年7月2日.
+1. 岸本健太郎, 池田隼, 國島丈生, 横田一正.
+[パノラマ仮想空間によるディジタルミュージアムの構築](http://ci.nii.ac.jp/naid/110006381626).
+情報処理学会研究報告データベースシステム(DBS) 2007-DBS-143 (電子情報通信学会技術研究報告 DE, データ工学 107(131)), pp.235-240, 2007年7月3日.
+1. 桑原理, 國島丈生, 横田一正.
+[所蔵品検索システムに基づいたディジタルミュージアム](http://ci.nii.ac.jp/naid/110006381628).
+情報処理学会研究報告データベースシステム(DBS) (電子情報通信学会技術研究報告 DE, データ工学 107(131)), pp.247-252, 2007年7月3日.
+1. 池田隼, 國島丈生, 横田一正,
+[パノラマ画像による仮想3D空間基盤の構築](http://www.ieice.org/iss/de/DEWS/DEWS2007/pdf/b7-4.pdf).
+電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-4, 2007年3月.
+1. 田村晃一, 池田隼, 國島丈生, 横田一正.
+[パノラマ画像の4次元配置による仮想空間の拡張](http://www.ieice.org/iss/de/DEWS/DEWS2007/pdf/b7-5.pdf).
+電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-5, 2007年3月.
+1. 桑原理, 鷲見京子, 國島丈生, 横田一正.
+[利用者指向ディジタルミュージアムの大規模実証実験と考察](http://www.ieice.org/iss/de/DEWS/DEWS2007/pdf/b7-6.pdf).
+電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, B7-6, 2007年3月.
+1. 小西裕, 大谷英司, 劉渤江, 國島丈生, 横田一正.
+[教材作成支援のための教材部品共有システムの提案](http://www.ieice.org/iss/de/DEWS/DEWS2007/pdf/c7-8.pdf).
+電子情報通信学会第18回データ工学ワークショップ論文集, ISSN1347-4413, C7-8, 2007年3月.
+1. 小西裕, 延原哲也, 劉渤江, 国島丈生, 横田一正.
+[eラーニングにおける学習シーケンシングの妥当性検証](http://ci.nii.ac.jp/naid/110004849301).
+情報処理学会研究報告データベースシステム(DBS) 2006-DBS-140, pp.15-20 (電子情報通信学会技術研究報告 DE, データ工学 106(148), pp.13-18), 2006年7月12日.
+1. 西輝之, 横田一正, 国島丈生, 劉渤江, 延原哲也.
+[適応型e-ラーニングに必要な診断的テスト機構](http://ci.nii.ac.jp/naid/110004849302).
+情報処理学会研究報告データベースシステム(DBS) 2006-DBS-140, pp.21-26 (電子情報通信学会技術研究報告 DE, データ工学 106(148), pp.19-24), 2006年7月12日.
+1. 池田隼, 難波公一郎, 粟田智子, 国島丈生, 横田一正.
+[パノラマ画像を用いた仮想空間の構築](http://www.ieice.org/iss/de/DEWS/DEWS2006/doc/4B-i12.pdf).
+電子情報通信学会第17回データ工学ワークショップ論文集, ISSN1347-4413, 4B-i12, 2006年3月.
+1. 庄司成臣, 小山嘉紀, 延原哲也, 劉渤江, 國島丈生, 横田一正.
+[eラーニングのための教材流通アーキテクチャの提案](http://www.ieice.org/iss/de/DEWS/DEWS2005/procs/papers/2B-o3.pdf).
+電子情報通信学会第16回データ工学ワークショップ論文集, ISSN1347-4413, 2B-o3, 2005年3月.
+1. 澤田梢, 松原幸平, 辻圭一, 国島丈生, 横田一正.
+[制約を用いたディジタルミュージアムのコンテンツ自動配置](http://www.ieice.org/iss/de/DEWS/DEWS2005/procs/papers/1D-d4.pdf).
+電子情報通信学会第16回データ工学ワークショップ論文集, ISSN1347-4413, 1D-d4, 2005年3月.
+1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正.
+[利用者指向ディジタルミュージアムの共有化とモジュール化](http://www.ieice.org/iss/de/DEWS/proc/2004/paper/I-8/I-8-02.pdf).
+電子情報通信学会第15回データ工学ワークショップ論文集, ISSN1347-4413, I-8-2, 2004年3月.
+1. 荒木学, 江本守, 国島丈生, 横田一正.
+[インターネット上の異種メッセージの統合](http://www.ieice.org/iss/de/DEWS/proc/2004/paper/I-5/I-5-03.pdf).
+電子情報通信学会第15回データ工学ワークショップ論文集, ISSN1347-4413, I-5-3, 2004年3月.
+1. 野田英志, 国島丈生, 横田一正.
+[ディジタルミュージアムにおける自動案内のための機能と実現方法の提案](http://ci.nii.ac.jp/naid/110002911220).
+情報処理学会研究報告データベースシステム(DBS) 2003-DBS-131, pp.359-366 (電子情報通信学会技術研究報告 DE, データ工学 103(191), pp.133-138), 2003年7月16日.
+1. 石崎勝俊, 細田昌明, 西田悟, 江本守, 国島丈生, 横田一正.
+[利用者志向ディジタルミュージアムの実現](http://ci.nii.ac.jp/naid/110002911188).
+情報処理学会研究報告データベースシステム(DBS) 2003-DBS-131, pp.113-120 (電子情報通信学会技術研究報告 DE, データ工学 103(190), pp.85-90), 2003年7月16日.
+1. 細田昌明, 那須正裕, 野田英志, 松原幸平, 国島丈生, 横田一正.
+[論理構造をもつマルチメディア情報の利用者提示の実現](http://www.ieice.org/~de/DEWS/proc/2003/papers/8-P/8-P-08.pdf).
+電子情報通信学会第14回データ工学ワークショップ論文集, 8-P-8, 2003年3月.
+1. 岡本辰夫, 國島丈生, 横田一正.
+[XML操作スクリプト言語xTricsの提案](http://ci.nii.ac.jp/naid/110002931417).
+情報処理学会研究報告データベースシステム(DBS) 2002-DBS-128, pp.217-224 (電子情報通信学会技術研究報告 DE, データ工学 102(208), pp.73-78), 2002年7月18日.
+1. 江本守, 荒木雄太, 大河内久貴, 大淵滋樹, 那須正裕, 松原幸平, 横田一正, 国島丈生.
+[XMLを基にしたシラバス管理システムの実現](http://ci.nii.ac.jp/naid/110002931405).
+情報処理学会研究報告データベースシステム(DBS) 2002-DBS-128, pp.123-130 (電子情報通信学会技術研究報告 DE, データ工学 102(208), pp.1-6), 2002年7月18日.
+1. 岡本辰夫, 吉田奈美子, 國島丈生, 横田一正.
+[XML操作スクリプト言語による個人化手法の提案](http://www.ieice.org/~de/DEWS/proc/2002/papers/A6-4.pdf).
+電子情報通信学会第13回データ工学ワークショップ論文集, A6-3, 2002年3月.
+1. 的野晃整, 野宮一生, 板谷昌洋, 国島丈生, 横田一正.
+[意味的に拡張したXMLとその応用のためのデータベースエンジンの実現](http://www.ieice.org/~de/DEWS/proc/2002/papers/A5-2.pdf).
+電子情報通信学会第13回データ工学ワークショップ論文集, A5-2, 2002年3月.
+1. 藤野猛士, 石崎勝俊, 谷本奈緒美, 細田昌明, 國島丈生, 横田一正.
+[ユーザ適応型マルチメディア情報提示システムの実現](http://www.ieice.org/~de/DEWS/proc/2002/papers/B4-7.pdf).
+電子情報通信学会第13回データ工学ワークショップ論文集, B4-7, 2002年3月.
+1. 岡本辰夫, 劉渤江, 國島丈生, 横田一正.
+[マップ生成機能をもつデジタルテーマパークの実現](http://ci.nii.ac.jp/naid/110002931360).
+情報処理学会研究報告データベースシステム (DBS) 2001-DBS-125, pp.153-160 (電子情報通信学会技術研究報告 DE, データ工学 101(193), pp.151-158), 2001年7月17日.
+1. 的野晃整, 板谷昌洋, 横田一正, 國島丈生, 劉勃江.
+[データベース概念を組み込んだXMLのための問合せ言語](http://ci.nii.ac.jp/naid/110003189058).
+電子情報通信学会技術研究報告 DE, データ工学 101(110), pp.97-104, 2001年6月5日.
+1. 横田一正, 國島丈生, 劉渤江.
+[異種文書管理のための問合せ機構の考察](http://ci.nii.ac.jp/naid/110002931217).
+情報処理学会研究報告データベースシステム (DBS) 2000-DBS-122, pp.145-152 (電子情報通信学会技術研究報告 DE, データ工学 100(227), pp.1-8), 2000年7月26日.
+1. 杉本健二, 緒方啓孝, 的野晃整, 平野尚孝, 横田一正, 國島丈生.
+[対話的マルチメディア情報提示システム実現のための QUIK の拡張](http://ci.nii.ac.jp/naid/110002931198).
+情報処理学会研究報告データベースシステム (DBS) 2000-DBS-121 (情報処理学会研究報告情報学基礎(FI) 2000-FI-058), pp.153-160, 2000年5月25日.
+1. 藤野猛士, 野宮一生, 横田一正, 國島丈生, 三宅忠明.
+[構造化文書に基づいた対話的戯曲提示システムの実現](http://ci.nii.ac.jp/naid/110002931197).
+情報処理学会研究報告データベースシステム (DBS) 2000-DBS-121 (情報処理学会研究報告情報学基礎(FI) 2000-FI-058), pp.145-152, 2000年5月25日.
+1. 横田一正, 三宅忠明, 國島丈生, 劉渤江, 田槙明子.
+[文学データベースのための文書の構造化と意味管理](http://www.jinbun-db.com/journal/pdf/vol_5_47-58.pdf).
+[人文系データベース協議会第5回公開シンポジウム「人文科学とデータベース」](http://www.jinbun-db.com/symposium/archives/5), pp.47-58, 1999年12月18日.
+1. 三宅忠明, 横田一正, 國島丈生, 田槙明子.
+[ケルトの悲恋ロマンス「デァドラ」における資料の言語分析](http://ci.nii.ac.jp/naid/170000082390).
+人文科学とコンピュータ1999シンポジウム, pp.103-104, 1999年9月17日.
+1. 劉渤江, 横田一正, 國島丈生, 三宅忠明.  異種文書の統合のための意味とリンクの管理機構.  [電子情報通信学会データ工学ワークショップ](http://www.ieice.org/~de/DEWS/DEWS99/), 5B-2, 1999年3月.
+1. 横田一正, 萬上裕, 黒田崇, 國島丈生.
+[QUIKメディエータにおけるオブジェクト再考](http://ci.nii.ac.jp/naid/110002930666).
+情報処理学会研究報告データベースシステム (DBS) 1997-DBS-113, pp.323-328 (電子情報通信学会技術研究報告 DE, データ工学 97(162), pp.49-54), 1997年7月14日.
 1. Kazumasa Yokota, Takeo Kunishima, and Hideyuki Nakanishi, Hypothetical Query Processing for Workflow Management. Proceedings of the Seminar on Logical Databases and the Meaning of Change, Dagstuhl, pp. 44-49, Sept. 1996. UPMAIL Technical Reports, No. 129, Uppsala University.
-1. 植村俊亮, 安達淳, 有川正俊, 清木康, 下條真司, 加藤俊一, 小島功, 最所圭三, 國島丈生. 「マルチメディア情報ベース技術の研究」が目指すもの. 情報処理学会データベースシステム研究会 DBS106-21, pp. 157--164. Jan. 1996.
+1. 植村俊亮, 安達淳, 有川正俊, 清木康, 下條真司, 加藤俊一, 小島功, 最所圭三, 國島丈生.
+[「マルチメディア情報ベース技術の研究」が目指すもの](http://ci.nii.ac.jp/naid/110002930943).
+情報処理学会研究報告データベースシステム (DBS) 1995-DBS-106, pp.157-164, 1996年1月24日.
 1. 大本英徹, 田中克己, 布川博士, 国島丈生, 吉川正俊, 増永良文, 協同電子出版の実験 ― データベースワークブックを例にして ―. 情報処理学会データベース研究会研究会報告 DBS99-17, pp. 121--129. July 1994.
 1. 成瀬正, 國島丈生, 斎藤隆文, Bounding Volume の構成法に関する考察. 電子情報通信学会「パターン認識と理解」研究会 PRU89-65, 1989.
 
@@ -157,12 +262,24 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 1. 杉原守, 練苧宣行, 國島丈生, 横田一正.  QUIKプログラムの開発環境.  電気・情報関連学会中国支部第49回連合大会, Oct. 1998.
 1. 杉本健二, 横川賢, 緒方啓孝, 國島丈生, 横田一正.  QUIK システムにおける分散探索の制御.  電気・情報関連学会中国支部第49回連合大会, Oct. 1998.
 1. 練苧宣行, 杉原守, 國島丈生, 横田一正.  オントロジーによるQUIKオブジェクトの管理.  電気・情報関連学会中国支部第49回連合大会, Oct. 1998.
-1. 本行弘明, 田槙明子, 白木善隆, 國島丈生, 横田一正.  文学データベースのためのプロトタイプシステムの実装.  情報処理学会第57回全国大会, Oct. 1998．
-1. 緒方啓孝, 杉本健二, 横川賢, 國島丈生, 横田一正.  メディエータシステムの外部解消系の実現.  情報処理学会第57回全国大会, Oct. 1998.
-1. 国島丈生, 横田一正. ワークフローモデルWorkflow Baseにおけるワークフロー質問言語. 情報処理学会第55回全国大会, pp.177-178, Sep. 1997.
-1. 国島丈生, 上林弥彦. 開放型ワークフロー管理システムに関する考察. 情報処理学会第51回全国大会. Sep. 1995.
-1. 瀬川典久, 樋地正浩, 国島丈生, 渡邉勝正. 動的なコミュニケーションの枠組みの記述. 情報処理学会第51回全国大会. Sep. 1995.
-1. 国島丈生, 上林弥彦, ワークフロー管理システム WorkFlowBaseのプロトタイプの実現と評価. 情報処理学会第50回全国大会, Mar. 1995.
+1. 本行弘明, 田槙明子, 白木善隆, 國島丈生, 横田一正.
+[文学データベースのためのプロトタイプシステムの実装](http://ci.nii.ac.jp/naid/110002892810).
+情報処理学会第57回全国大会講演論文集(データベースとメディア), pp.203-204, 1998年10月5日.
+1. 緒方啓孝, 杉本健二, 横川賢, 國島丈生, 横田一正.
+[メディエータシステムの外部解消系の実現](http://ci.nii.ac.jp/naid/110002892759).
+情報処理学会第57回全国大会講演論文集(データベースとメディア), pp.101-102, 1998年10月5日.
+1. 国島丈生, 横田一正.
+[ワークフローモデルWorkflow Baseにおけるワークフロー質問言語](http://ci.nii.ac.jp/naid/110002891682).
+情報処理学会第55回全国大会講演論文集(インタフェース), pp.177-178, 1997年9月24日.
+1. 国島丈生, 上林弥彦.
+[開放型ワークフロー管理システムに関する考察](http://ci.nii.ac.jp/naid/110002878396).
+情報処理学会第51回全国大会講演論文集(システム), pp.179-180, 1995年9月20日.
+1. 瀬川典久, 樋地正浩, 国島丈生, 渡邉勝正.
+[動的なコミュニケーションの枠組みの記述](http://ci.nii.ac.jp/naid/110002878404).
+情報処理学会第51回全国大会講演論文集(システム), pp.187-188, 1995年9月20日.
+1. 国島丈生, 上林弥彦.
+[ワークフロー管理システムWorkFlowBaseのプロトタイプの実現と評価](http://ci.nii.ac.jp/naid/110002896310).
+情報処理学会第50回全国大会講演論文集(システム), pp.183-184, 1995年3月15日.
 1. 国島丈生, 上林弥彦, ワークフローモデルにおけるビュー機能. 情報処理学会第49回全国大会. Sept. 1994.
 1. 国島丈生, 上林弥彦, 活動オブジェクトに基づく作業フローモデルの実行手続き. 情報処理学会第48回全国大会. Mar.1994.
 1. 国島丈生, 上林弥彦, 集約階層をなす協調作業上における作業間の属性の継承. 情報処理学会第47回全国大会, Oct.1993.
