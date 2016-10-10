@@ -17,10 +17,15 @@ permalink: /research/
 
 ### 著書・翻訳書
 
-1. 白鳥則郎監修, 三石大・吉廣卓哉編著, 富樫敦・岡崎功・村田嘉利・宇田川佳久・工藤司・松澤茂・國島丈生・青木輝勝・寺西裕一著: [未来へつなぐデジタルシリーズ26「データベースービッグデータ時代の基礎ー」](http://www.kyoritsu-pub.co.jp/bookdetail/9784320123465), ISBN978-4-320-12346-5, 共立出版, 2014.09.
-1. 横田一正監訳, 國島丈生訳: [XMLデータベース入門 - Data on the Web -](http://www.kyoritsu-pub.co.jp/bookhtml/0306/002980.html). ISBN4-320-12162-7, 共立出版, 2006.07.：S. Abiteboul, P. Buneman, D. Suciu著 “Data on the Web” の邦訳です。（サポートページ）
+1. 白鳥則郎監修, 三石大・吉廣卓哉編著, 富樫敦・岡崎功・村田嘉利・宇田川佳久・工藤司・松澤茂・國島丈生・青木輝勝・寺西裕一著:
+<a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>未来へつなぐデジタルシリーズ26「データベースービッグデータ時代の基礎ー」</a>,
+ISBN978-4-320-12346-5, 共立出版, 2014.09.
+1. 横田一正監訳, 國島丈生訳: <a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>XMLデータベース入門 - Data on the Web -</a>.
+ISBN4-320-12162-7, 共立出版, 2006.07.：S. Abiteboul, P. Buneman, D. Suciu著 “Data on the Web” の邦訳です。（サポートページ）
 1. 横田一正, 國島丈生, 劉渤江（編）: 第13回データ工学ワークショップ（DEWS2002）論文集. ISSN 1347-4413, 2002.  http://www.ieice.org/iss/de/DEWS/proc/2002/index.html 
-1. 上林弥彦編著, 有川正俊, 國島丈生, 木實新一, 高田秀志, 宮部義幸共著: [ハイパーメディアとオブジェクトベース. 分散協調メディアシリーズ4](http://www.kyoritsu-pub.co.jp/bookdetail/9784320027657), ISBN4-320-02765-5, 共立出版, 1995.11.
+1. 上林弥彦編著, 有川正俊, 國島丈生, 木實新一, 高田秀志, 宮部義幸共著:
+<a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>ハイパーメディアとオブジェクトベース. 分散協調メディアシリーズ4</a>,
+ISBN4-320-02765-5, 共立出版, 1995.11.
 
 ### 招待講演
 
