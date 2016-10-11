@@ -2,6 +2,7 @@
 layout: page
 title: 作品
 permalink: /portfolio/
+tags: header
 ---
 これまでに私が作った主なソフトウェアを紹介します。公開可能なものは[GitHub](https://github.com/kunishi)に置いています。
 
