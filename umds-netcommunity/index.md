@@ -15,3 +15,4 @@ title: 流通科学大学・ネットコミュニティ論
 1. [講義の概要](https://drive.google.com/open?id=1snS3pDmy2EtGo1pD2AXcEYe5dIoJSmcQITSjbJmE4WU) (2016-09-23実施)
 1. [ネットコミュニティの形](https://drive.google.com/open?id=15Qnzgg8czIOgXd6oomz_WuoL578hmvWbFaA2BjgOrGY) (2016-09-30実施)
 1. [ネットコミュニティの形とシステムアーキテクチャ](https://drive.google.com/open?id=1Xrd2zM0Aol6hn-m-w4-81iB9DuTuogw0Ua2gdSCQ4bE) (2016-10-07実施)
+1. [運営者側から見たSNS](https://drive.google.com/open?id=1rfPaBVSwuL5OnUCtEeVxN8zQY6Cv8NKjv6LbJvPIYgA) (2016-10-14実施)
