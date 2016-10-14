@@ -22,7 +22,7 @@ permalink: /research/
 <a href="http://www.kyoritsu-pub.co.jp/bookdetail/9784320123465" data-proofer-ignore>未来へつなぐデジタルシリーズ26「データベースービッグデータ時代の基礎ー」</a>,
 ISBN978-4-320-12346-5, 共立出版, 2014.09.
 1. 横田一正監訳, 國島丈生訳: <a href="http://www.kyoritsu-pub.co.jp/bookdetail/9784320121621" data-proofer-ignore>XMLデータベース入門 - Data on the Web -</a>.
-ISBN4-320-12162-7, 共立出版, 2006.07.：S. Abiteboul, P. Buneman, D. Suciu著 “Data on the Web” の邦訳です。（サポートページ）
+ISBN4-320-12162-7, 共立出版, 2006.07.：S. Abiteboul, P. Buneman, D. Suciu著 “Data on the Web” の邦訳です。（[サポートページ](/xml-database-support/）
 1. 横田一正, 國島丈生, 劉渤江（編）: [第13回データ工学ワークショップ（DEWS2002）論文集](http://www.ieice.org/iss/de/DEWS/proc/2002/index.html). ISSN 1347-4413, 2002.
 1. 上林弥彦編著, 有川正俊, 國島丈生, 木實新一, 高田秀志, 宮部義幸共著:
 <a href="http://www.kyoritsu-pub.co.jp/bookdetail/9784320027657" data-proofer-ignore>ハイパーメディアとオブジェクトベース. 分散協調メディアシリーズ4</a>,
