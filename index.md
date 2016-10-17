@@ -17,4 +17,6 @@ layout: default
 - <a href="https://researchmap.jp/kunishima/" data-proofer-ignore>Researchmap</a>
 - <a href="https://github.com/kunishi" data-proofer-ignore>GitHub</a>
 - <a href="https://gitlab.com/u/kunishi" data-proofer-ignore>GitLab</a>
+- <a href="https://www.gitbook.com/@kunishi" data-proofer-ignore>GitBook</a>
+- <a href="http://www.slideshare.net/kunishi" data-proofer-ignore>SlideShare</a>
 - <a href="https://medium.com/@kunishi" data-proofer-ignore>ブログ (Medium)</a>
