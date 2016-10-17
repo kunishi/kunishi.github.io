@@ -11,7 +11,7 @@ permalink: /research/
 ## 出版物、論文、学会発表など
 
 [
-<a href="https://scholar.google.co.jp/citations?user=3gaBqWUAAAAJ&hl=ja" data-proofer-ignore>Google Scholar Citations</a> 
+<a href="https://scholar.google.co.jp/citations?user=3gaBqWUAAAAJ&hl=ja" data-proofer-ignore>Google Scholar Citations</a>
 | <a href="http://dblp.uni-trier.de/pers/hd/k/Kunishima:Takeo" data-proofer-ignore>DBLP</a>
 | <a href="http://ci.nii.ac.jp/nrid/1000020263436" data-proofer-ignore>CiNii</a>
 ]
@@ -35,7 +35,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 情報処理学会研究報告デジタルドキュメント(DD) 2009-DD-73(5), pp.1-1, 2009年9月18日.
 ([発表資料](http://www.slideshare.net/kunishi/20090925-html5))
 1. 國島丈生, チュートリアル「XML（再）入門」,
-[電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会](http://www.ieice.org/~wi2/pastitem/past23.html), 2008.12. (サポートページを用意しています)
+[電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会](http://www.ieice.org/~wi2/pastitem/past23.html), 2008.12. ([サポートページ](/xmltut200812/)を用意しています)
 1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 2002年11月5日.
 
 ### 学術論文
@@ -55,7 +55,7 @@ Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Pre
 [Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626).  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
 1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
 [Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99).
-Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999) 
+Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999)
 1. 國島丈生, 横田一正.
 [Workflow Base: データベース技術に基づくワークフローモデル](http://ci.nii.ac.jp/naid/110002722306).
 情報処理学会論文誌, Vol. 39, No. 11, pp.3122-3130, 1998年11月.
@@ -74,7 +74,7 @@ In Proceedings of International Symposium on Cooperative Database Systems for Ad
 Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 1992.
 1. 成瀬正, 斎藤隆文, 國島丈生.
 [n球包含問題の近似解法](http://ci.nii.ac.jp/naid/40004782577).
-電子情報通信学会論文誌 Vol. J73-DII, No.10, pp.1792-1795, 1990年10月. 
+電子情報通信学会論文誌 Vol. J73-DII, No.10, pp.1792-1795, 1990年10月.
 
 ### 技術報告(第1著者分)
 
@@ -106,9 +106,9 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 高渕健太, 岩橋直人, 國島丈生.
 [動画像情報と音声情報のシーケンス変換学習に基づく言語獲得](http://id.nii.ac.jp/1001/00169955/).
 情報処理学会研究報告自然言語処理(NL), 2016-NL-228(10), pp.1-4, ISSN 2188-8799, 2016年7月22日.
-1. 定免睦昌, 國島丈生, 横田一正. 
+1. 定免睦昌, 國島丈生, 横田一正.
 [ユーザタスク情報に基づくファイル関連管理手法](http://ci.nii.ac.jp/naid/170000069041).
-情報処理学会研究報告デジタルドキュメント(DD) 2012-DD-84(1), pp.1-7, 2012年1月13日. 
+情報処理学会研究報告デジタルドキュメント(DD) 2012-DD-84(1), pp.1-7, 2012年1月13日.
 1. 吉原優輔, 佐藤智美, 渡谷真以, 國島丈生, 横田一正.
 [足守プロジェクト: 仮想空間システムによる文化的景観のディジタル化](http://ci.nii.ac.jp/naid/170000069046).
 情報処理学会研究報告デジタルドキュメント(DD), 2012-DD-84(6), pp.1-6, 2012年1月13日.
