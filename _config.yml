@@ -15,6 +15,7 @@ url: "https://kunishi.github.io" # the base hostname & protocol for your site
 timezone: Asia/Tokyo
 twitter_username: kunishi
 github_username:  kunishi
+google_analytics: UA-1843615-14
 
 # Build settings
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "script"]
