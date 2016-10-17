@@ -6,11 +6,9 @@ title: 岡山県立大学・講義「Webアプリケーション」
 
 ## 2016年度講義資料
 
-以下で公開しています。Webブラウザで閲覧できるほか、PDFやEPUBなどの形式でもダウンロードできます。講義の進行に伴って改訂を頻繁に行っていますので、最新版をチェックするようにしてください。
-https://www.gitbook.com/book/kunishi/web-application-textbook/details
+[GitBookで公開](https://www.gitbook.com/book/kunishi/web-application-textbook/details)しています。Webブラウザで閲覧できるほか、PDFやEPUBなどの形式でもダウンロードできます。講義の進行に伴って改訂を頻繁に行っていますので、最新版をチェックするようにしてください。
 
-なお、この資料のソースはGitHubで管理しています。
-https://github.com/kunishi/web-application-textbook
+なお、[この資料のソース](https://github.com/kunishi/web-application-textbook)はGitHubで管理しています。
 
 [2016年度のシラバス](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=46290)は大学Webサイト内で公開されています。
 
