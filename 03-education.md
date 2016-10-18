@@ -22,7 +22,7 @@ permalink: /education/
 
 - [プログラミング言語II](/opu-programming-language-ii/)（情報通信工学科・2年後期、旧科目名：計算機言語I, Standard ML）
 - [コンパイラ](/opu-compiler/)（情報通信工学科・3年前期）
-- 計算機言語II（情報通信工学科・3年後期, Java）
+- [計算機言語II](/opu-computer-language-ii/)（情報通信工学科・3年後期, Java）
 - [プログラミング言語III](/opu-programming-language-iii/)（情報通信工学科・3年後期, Ruby）
 - 情報通信工学演習（情報通信工学科、PC組み立て）
 - 情報通信工学実験IB（情報通信工学科・2年後期、C言語によるデータ構造とアルゴリズムプログラミング）
