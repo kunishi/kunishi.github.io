@@ -55,3 +55,16 @@ Javaは、つくづく、教育ではやりにくい言語だと思います。H
 1. [コレクション](https://drive.google.com/open?id=1yc9KsmJzplGTzZuXh-LXjKDdmN3iSIReihVUHYr1doE)
 1. [XMLの概要](https://drive.google.com/open?id=1tZ9QHXPKNZexjri1ny81_QMRfPcdjgOmDAYvw6n7Fzk)
 1. [JavaによるXML操作: DOM](https://drive.google.com/open?id=1BV7YqxEghT3hSPXfrUpnt4jU-qXDBvERdjnu44cVxpM)
+
+## 定期試験問題
+
+- [1998年度(1999年2月実施)](opu-computer-language-ii-exam-1999.pdf)
+- [1999年度(2000年2月実施)](opu-computer-language-ii-exam-2000.pdf)
+- [2000年度(2001年2月実施)](opu-computer-language-ii-exam-2001.pdf)
+- [2001年度(2002年2月実施)](opu-computer-language-ii-exam-2002.pdf)
+- [2002年度(2003年2月実施)](opu-computer-language-ii-exam-2003.pdf)
+- [2003年度(2004年2月実施)](opu-computer-language-ii-exam-2004.pdf)
+- [2004年度(2005年2月実施)](opu-computer-language-ii-exam-2005.pdf)
+- [2005年度(2006年2月実施)](opu-computer-language-ii-exam-2006.pdf)
+- [2006年度(2007年2月実施)](opu-computer-language-ii-exam-2007.pdf)
+- [2007年度(2008年2月実施)](opu-computer-language-ii-exam-2008.pdf)

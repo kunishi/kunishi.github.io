@@ -54,3 +54,9 @@ Pythonを使うかもしれませんが、まあ、この時なら、Railsがあ
 1. [Web アーキテクチャ、URI、HTTP](https://drive.google.com/open?id=1j6Zk54V-7g_Y8mjE9Teaio15MixkBqTL2mk6S2HU_N4)
 1. [HTML, Web アプリケーションの概要](https://drive.google.com/open?id=1ZAo9BDMkZdU6ErLk6midY9d8Qe8Pf7KO9YWwUDG-UiM)
 1. [Web アプリケーションとデータベースとの連携](https://drive.google.com/open?id=1oo1Ncfmk37_d26eOg5kGUgBM9GWFc1bzFB1tXprrN9g)
+
+## 定期試験問題
+
+- [2009年度(2010年2月実施)](opu-programming-language-iii-exam-2010.pdf)
+- [2010年度(2011年2月実施)](opu-programming-language-iii-exam-2011.pdf)
+- [2011年度(2012年2月実施)](opu-programming-language-iii-exam-2012.pdf)

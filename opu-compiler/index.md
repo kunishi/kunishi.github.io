@@ -11,6 +11,8 @@ title: 岡山県立大学・講義「コンパイラ」の記録
 
 - <a  href="https://ja.scribd.com/doc/103661166/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99" data-proofer-ignore>コンパイラ講義資料</a>
 
+この資料はLaTeXで執筆しました。そのソースコードは[GitHubで公開](https://github.com/kunishi/compiler-textbook)しています。
+
 ## 関連ブログ、補足資料
 
 - [字句解析に関する補足資料(2010-05-19)](https://docs.google.com/document/d/1cBtmWutdgLIlaPLowN7-9wrSAiw-mWXGSJWbyphOjRo/edit?usp=sharing)
