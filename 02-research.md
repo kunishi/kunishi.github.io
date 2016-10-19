@@ -36,7 +36,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 ([発表資料](http://www.slideshare.net/kunishi/20090925-html5))
 1. 國島丈生, チュートリアル「XML（再）入門」,
 [電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会](http://www.ieice.org/~wi2/pastitem/past23.html), 2008.12. ([サポートページ](/xmltut200812/)を用意しています)
-1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 2002年11月5日.
+1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 2002年11月5日. ([発表資料](http://www.slideshare.net/kunishi/vldb2002-report200210231500))
 
 ### 学術論文
 
