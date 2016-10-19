@@ -25,6 +25,7 @@ permalink: /education/
 - [計算機言語II](/opu-computer-language-ii/)（情報通信工学科・3年後期, Java）
 - [プログラミング言語III](/opu-programming-language-iii/)（情報通信工学科・3年後期, Ruby）
 - [情報通信工学演習](/opu-exercise-pc/)（情報通信工学科、PC組み立て）
+- 情報通信工学演習 (情報通信工学科、プログラミングコンテスト)
 - 情報通信工学実験IB（情報通信工学科・2年後期、C言語によるデータ構造とアルゴリズムプログラミング）
 
 ### 非常勤講師
