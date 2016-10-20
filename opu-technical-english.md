@@ -20,7 +20,7 @@ permalink: /opu-technical-english/
 （探していなかった、使っていなかった、というのが正確だとは思いますが）。また、当時の教授と
 私の共通認識として、専門書の輪講はつまんないよね、と思っていました。
 
-それで、[ACM International Collegiate Programming Contest (ACM-ICPC)](https://icpc.baylor.edu/)
+それで、<a href="https://icpc.baylor.edu/" data-proofer-ignore>ACM International Collegiate Programming Contest (ACM-ICPC)</a>
 の過去問を読み、解き方を考え、できればプログラムを作る、という課題設定をしました。
 解き方も考えるというのがミソで、そのためにはある程度精密に英文を読まなければなりません。
 境界条件なんかがさりげなく英文に書いてあったりするので。逐一英文を訳していく必要はないけれど、
