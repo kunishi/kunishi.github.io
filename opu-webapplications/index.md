@@ -45,3 +45,4 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 - [Roy Fielding, "Architectural Styles and the Design of Network-based Software Architectures"](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) … Webアーキテクチャスタイルに関する原典と言える、Roy Fieldingの博士論文。
 - [RFC3986](http://www.ietf.org/rfc/rfc3986.txt)（URIの規格、[日本語訳](http://pentan.info/doc/rfc/j3986.html)あり）
 - [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html.en)（[日本語訳](http://www.kanzaki.com/docs/Style/URI.html)）
+- [http2 explained](https://www.gitbook.com/book/bagder/http2-explained/details)（HTTP/2の解説書、Daniel Stenberg著、GitBookによるオンライン書籍、日本語訳あり）
