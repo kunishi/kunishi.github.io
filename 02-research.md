@@ -33,10 +33,10 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 1. 國島丈生.
 [HTML5の過去、現在、未来](http://ci.nii.ac.jp/naid/110007991258).
 情報処理学会研究報告デジタルドキュメント(DD) 2009-DD-73(5), pp.1-1, 東京大学本郷キャンパス, 2009年9月18日.
-([発表資料](http://www.slideshare.net/kunishi/20090925-html5))
+(<a href="http://www.slideshare.net/kunishi/20090925-html5" data-proofer-ignore>発表資料</a>
 1. 國島丈生, チュートリアル「XML（再）入門」,
 [電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会](http://www.ieice.org/~wi2/pastitem/past23.html), 横浜・神奈川近代文学館, 2008年12月12日. ([サポートページ](/xmltut200812/)を用意しています)
-1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 東京大学駒場キャンパス・生産技術研究所, 2002年11月5日. ([発表資料](http://www.slideshare.net/kunishi/vldb2002-report200210231500))
+1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 東京大学駒場キャンパス・生産技術研究所, 2002年11月5日. (<a href="http://www.slideshare.net/kunishi/vldb2002-report200210231500" data-proofer-ignore>発表資料</a>
 1. 垂水弘幸, 国島丈生. グループウェア・CSCWの研究動向.
 文部省科学研究費重点領域研究「高度データベース」北海道ワークショップ講演論文集, pp.13-30, 北海道, 1997年7月.
 
