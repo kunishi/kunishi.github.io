@@ -17,3 +17,4 @@ title: 流通科学大学・ネットコミュニティ論
 1. [ネットコミュニティの形とシステムアーキテクチャ](https://drive.google.com/open?id=1Xrd2zM0Aol6hn-m-w4-81iB9DuTuogw0Ua2gdSCQ4bE) (2016-10-07実施)
 1. [運営者側から見たSNS](https://drive.google.com/open?id=1rfPaBVSwuL5OnUCtEeVxN8zQY6Cv8NKjv6LbJvPIYgA) (2016-10-14実施)
 1. [検索と広告](https://drive.google.com/open?id=1r9iCAcubdOh9JkiLFJ1pJmGdUw7Ms6rPBeilajFNQKU) (2016-10-28実施)
+1. [個人化と情報推薦](https://drive.google.com/open?id=1i3o071O8qufah7LyUQ0AxILIBYGzFN-OyxIoCFvymtk) (2016-11-11)
