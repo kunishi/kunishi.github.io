@@ -63,10 +63,10 @@ iPhoneは、従来の携帯電話ではできなかった多くの機能を備�
 
 ## 講義スライド
 
-- [2004年度](http://www.slideshare.net/kunishi/2004-67412335)
-- [2005年度](http://www.slideshare.net/kunishi/2005-67436911)
-- [2006年度](http://www.slideshare.net/kunishi/20060614-67437245)
-- [2007年度](http://www.slideshare.net/kunishi/20070627)
-- [2008年度](http://www.slideshare.net/kunishi/20080702)
-- [2009年度](http://www.slideshare.net/kunishi/20090616-67437471)
-- [2010年度](http://www.slideshare.net/kunishi/20100615-67437467)
+- <a href="http://www.slideshare.net/kunishi/2004-67412335" data-proofer-ignore>2004年度</a>
+- <a href="http://www.slideshare.net/kunishi/2005-67436911" data-proofer-ignore>2005年度</a>
+- <a href="http://www.slideshare.net/kunishi/20060614-67437245" data-proofer-ignore>2006年度</a>
+- <a href="http://www.slideshare.net/kunishi/20070627" data-proofer-ignore>2007年度</a>
+- <a href="http://www.slideshare.net/kunishi/20080702" data-proofer-ignore>2008年度</a>
+- <a href="http://www.slideshare.net/kunishi/20090616-67437471" data-proofer-ignore>2009年度</a>
+- <a href="http://www.slideshare.net/kunishi/20100615-67437467" data-proofer-ignore>2010年度</a>
