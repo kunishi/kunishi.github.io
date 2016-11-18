@@ -18,3 +18,4 @@ title: 流通科学大学・モバイルコミュニケーション
 1. [無線](https://drive.google.com/open?id=14wK4sbZbNHRs5dj8x8tHz47eOoODMlBZ3dErauLRW7g) (2016-10-14)
 1. [無線(続き)、無線LAN](https://drive.google.com/open?id=1aywd6URPFnLkzn1WLWMlSPkyCIDFyOa55RzfwBcsWuk) (2016-10-28)
 1. [Wifiのセキュリティ](https://drive.google.com/open?id=1e-V3Ms1IvZUBgEw6uyhKeEtUFFix9YOtkT-BT2w5jKk) (2016-11-11)
+1. [電話](https://drive.google.com/open?id=1OScYAgVQilFN8MW5VXLz02_nosl92YKlqX6yNJKMzxA) (2016-11-18)
