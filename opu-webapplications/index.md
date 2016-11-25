@@ -23,7 +23,7 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 
 ## 2016年度講義資料
 
-[GitBookで公開](https://www.gitbook.com/book/kunishi/web-application-textbook/details)しています。Webブラウザで閲覧できるほか、PDFやEPUBなどの形式でもダウンロードできます。講義の進行に伴って改訂を頻繁に行っていますので、最新版をチェックするようにしてください。
+[GitBookで公開](https://kunishi.gitbooks.io/web-application-textbook/)しています。Webブラウザで閲覧できるほか、PDFやEPUBなどの形式でもダウンロードできます。講義の進行に伴って改訂を頻繁に行っていますので、最新版をチェックするようにしてください。
 
 なお、[この資料のソース](https://github.com/kunishi/web-application-textbook)はGitHubで管理しています。
 
