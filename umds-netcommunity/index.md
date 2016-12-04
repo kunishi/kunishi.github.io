@@ -20,3 +20,4 @@ title: 流通科学大学・ネットコミュニティ論
 1. [個人化と情報推薦](https://drive.google.com/open?id=1i3o071O8qufah7LyUQ0AxILIBYGzFN-OyxIoCFvymtk) (2016-11-11実施)
 1. [SNSとクチコミ](https://drive.google.com/open?id=1jRPR6Zu1C1YJU7KqDkR1gujsUvGMMU8IOtdgsmHu6VU) (2016-11-18実施)
 1. [SNSにおける企業とユーザとのコミュニケーション](https://drive.google.com/open?id=15ubOw7p8V2aaREFuadMo-jGuW9e7Mu-ZVDZ85trJCe4) (2016-11-25実施)
+1. [無料(フリー)](https://drive.google.com/open?id=1zbycUnLDdux60j4phR4vNUVRTUMxcTcg6pOChYbn23I) (2015-12-02実施)
