@@ -22,3 +22,4 @@ title: 流通科学大学・モバイルコミュニケーション
 1. [メッセージング](https://drive.google.com/open?id=1bKMsG9-WoYAQTy4biQPjOIB-Jnn3oi1eWTLYfkpluGY) (2016-11-25)
 1. [モバイルアプリ、モバイルWeb](https://drive.google.com/open?id=1g1AZkn8RYM73ZQfN32pveRUUjN2_rugFSKhig1pUGJ4) (2016-12-02)
 1. [位置情報サービス](https://drive.google.com/open?id=1ZMudJYTTmdDPZj5AVmocjQbBcW5H3b5S7jvwTqcr5-s) (2016-12-16)
+1. [決済、POS](https://drive.google.com/open?id=1ynA2n3l8Ogs4SuK-8s6VfUF2sP2FD5X9szp2VheVSH0) (2016-12-23)

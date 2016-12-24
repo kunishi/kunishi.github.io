@@ -22,3 +22,4 @@ title: 流通科学大学・ネットコミュニティ論
 1. [SNSにおける企業とユーザとのコミュニケーション](https://drive.google.com/open?id=15ubOw7p8V2aaREFuadMo-jGuW9e7Mu-ZVDZ85trJCe4) (2016-11-25実施)
 1. [無料(フリー)](https://drive.google.com/open?id=1zbycUnLDdux60j4phR4vNUVRTUMxcTcg6pOChYbn23I) (2015-12-02実施)
 1. [セキュリティ](https://drive.google.com/open?id=1VsAPmfpDBuxE2d-b0XR0BlsGqGDBGBqX9B6k9KCluk4) (2016-12-16実施)
+1. [炎上](https://drive.google.com/open?id=1wWDZJpHpEaXTF8H2Q6S8eeO_WCIRYCujPAwvZYx6Epo) (2016-12-23実施)
