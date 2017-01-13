@@ -24,3 +24,4 @@ title: 流通科学大学・ネットコミュニティ論
 1. [セキュリティ](https://drive.google.com/open?id=1VsAPmfpDBuxE2d-b0XR0BlsGqGDBGBqX9B6k9KCluk4) (2016-12-16実施)
 1. [炎上](https://drive.google.com/open?id=1wWDZJpHpEaXTF8H2Q6S8eeO_WCIRYCujPAwvZYx6Epo) (2016-12-23実施)
 1. [SNSの負の側面](https://drive.google.com/open?id=1Ysw0iUkwPQ6vv4l8hmeLgufRbhL6qdWZ3LJzvXQNqQ8) （2017-01-06実施）
+1. [クリエイターとSNS](https://drive.google.com/open?id=11Q2WXn8dnxksLJSVunTj5gKmQk8C_3XOOFqgth5I7mk) (2017-01-13実施)
