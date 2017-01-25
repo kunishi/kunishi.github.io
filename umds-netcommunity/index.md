@@ -25,4 +25,5 @@ title: 流通科学大学・ネットコミュニティ論
 1. [炎上](https://drive.google.com/open?id=1wWDZJpHpEaXTF8H2Q6S8eeO_WCIRYCujPAwvZYx6Epo) (2016-12-23実施)
 1. [SNSの負の側面](https://drive.google.com/open?id=1Ysw0iUkwPQ6vv4l8hmeLgufRbhL6qdWZ3LJzvXQNqQ8) （2017-01-06実施）
 1. [クリエイターとSNS](https://drive.google.com/open?id=11Q2WXn8dnxksLJSVunTj5gKmQk8C_3XOOFqgth5I7mk) (2017-01-13実施)
-1. 人が集まるコミュニティ：古川健介：人が集まるコミュニティのつくり方、角川インターネット講座5「ネットコミュニティの設計と力」第3章（2015）をもとに講義内容を構成した。
+1. 人が集まるコミュニティ：古川健介：人が集まるコミュニティのつくり方、角川インターネット講座5「ネットコミュニティの設計と力」第3章（2015）をもとに講義内容を構成した。 (2017-01-20実施)
+1. [補講](https://drive.google.com/open?id=1i3o071O8qufah7LyUQ0AxILIBYGzFN-OyxIoCFvymtk) (2017-01-24実施)

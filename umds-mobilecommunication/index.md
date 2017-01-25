@@ -26,3 +26,4 @@ title: 流通科学大学・モバイルコミュニケーション
 1. [健康管理とモバイル](https://docs.google.com/document/d/1timzh_o_JDdqPd_GdibDj67IR4g729gVFtjscnqAYHs/edit?usp=sharing) （2017-01-06）
 1. [個人認証とモバイル](https://drive.google.com/open?id=1Eurs2B344jCBCq9JvnMV_RdXbyi24Ay_3NRnbyxwqZc) (2017-01-13)
 1. [文字とモバイル](https://drive.google.com/open?id=1Mzu9E2lgWBokjfmjBV2Ca5UxJFWYFpnznIXc79Yp7CY) (2017-01-20)
+1. [補講](https://drive.google.com/open?id=1XLPgLuk0H0cOVqUO9yXPmkPcS3bh0EV9PihJD9BTDYc) (2017-01-24)
