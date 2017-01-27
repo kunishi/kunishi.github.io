@@ -42,9 +42,13 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 
 ### 学術論文
 
+1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, Robot Language Acquisition Based on Sequence-to-Sequence Learning,
+15th International Conference on Computer Applications 2017 (ICCA 2017), Yangon, Myanmar, Feb. 2017. (to appear)
+1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, DNN-based object manipulation to syllable sequence for language acquisition,
+[22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), Beppu, Japan, Jan. 2017.
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,
 A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots,
-[The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), Sept. 2016.
+[The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), Paris, France, Sept. 2016.
 1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月.
 1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
 1. 田村晃一, 池田隼, 國島丈生, 横田一正. [パノラマ画像の4次元配置による仮想空間の拡張](http://ci.nii.ac.jp/naid/40015217340). 日本データベース学会Letters, Vol.6, No.1, pp.101-104. 2007年6月.
