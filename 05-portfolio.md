@@ -98,7 +98,7 @@ MVCアーキテクチャに沿ったWebアプリケーションとなり、ユ�
 
 ### 研究用ソフトウェアLCore
 
-[現研究室の教授がこれまでやってこられた研究](http://naotoiwahashi.jp/research.html)の
+[現研究室の教授がこれまでやってこられた研究](http://www-ime.c.oka-pu.ac.jp/member/naoto.iwahashi/research.html)の
 過程で作ってこられたソフトウェアです。およそ15年以上取り組んでこられたテーマのようで、ソフトも、
 C, C++, Perl, Shell, Pythonと多岐にわたる言語で実装された30以上のサブモジュールが
 組み合わされているというシロモノで、しかもこれが手作業で組み上げられているという状態でした。
