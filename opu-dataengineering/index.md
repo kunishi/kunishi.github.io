@@ -6,7 +6,7 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 
 ## シラバス
 
-3学科での開講となっており、シラバスも学科ごとに用意しています。
+3学科での開講となっており、シラバスも学科ごとに用意しています。以下は平成28年度(2016年度)のものです。
 
 - [情報通信工学科](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=70250)
 - [情報システム工学科](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=70920)
@@ -46,6 +46,9 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 - 2015年度
     - [情報通信工学科](opu-c-dataengineering-exam-2015.pdf)
     - [情報システム工学科・スポーツシステム工学科](opu-cse-ss-dataengineering-exam-2015.pdf)
+- 2016年度
+    - [情報通信工学科](opu-c-dataengineering-exam-2016.pdf)
+    - [情報システム工学科・スポートシステム工学科](opu-cse-ss-dataengineering-exam-2016.pdf)
 
 以下は、2002年から2008年にかけて岡山理科大学総合情報学部生物・地球システム学科で担当していた
 講義「データベース」の定期試験問題です。参考までにこれも掲載しておきます。
