@@ -232,6 +232,8 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 
 ### 口頭発表
 
+1. 石田卓也, 山本一馬, 岩橋直人, Ye Kyaw Thu, 中村友昭, 長井隆行, 國島丈生. [雑談を通した物体と単語の学習](https://kaigi.org/jsai/webprogram/2017/paper-1117.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 3B2-4in1, ウインクあいち(名古屋市), 2017年5月25日.
+1. 深井海星, 武井豪介, 高渕健太, 岩橋直人, Ye Kyaw Thu, 國島丈生. [LRCNによる参照点に依存した動作の認識](https://kaigi.org/jsai/webprogram/2017/paper-1131.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 4D2-OS-37d-2in2, ウインクあいち(名古屋市), 2017年5月26日.
 1. 山本一馬, 石田卓也, 岩橋直人, Ye Kyaw Thu, 國島丈生. 人とロボットによる雑談と眼前の物体に記号接地している発話の検出法. [HAIシンポジウム2016](http://hai-conference.net/symp2016/), P-61, 東京大学, 2016年12月3〜4日.
 1. 高渕健太, 坂本伸次, 植田紗也加, 岩橋直人, 國島丈生. シーケンス変換モデルに基づくロボットによる言語獲得.
 [2016年度人工知能学会全国大会(第30回)](http://www.ai-gakkai.or.jp/jsai2016), 1O2-1, 北九州国際会議場, 2016年6月6日.
