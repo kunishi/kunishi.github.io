@@ -42,12 +42,12 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 
 ### 学術論文
 
-1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, Robot Language Acquisition Based on Sequence-to-Sequence Learning,
-15th International Conference on Computer Applications 2017 (ICCA 2017), Yangon, Myanmar, Feb. 2017. (to appear)
-1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, DNN-based object manipulation to syllable sequence for language acquisition,
+1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, *Robot Language Acquisition Based on Sequence-to-Sequence Learning*,
+15th International Conference on Computer Applications 2017 (ICCA 2017), Yangon, Myanmar, Feb. 2017.
+1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, *DNN-based object manipulation to syllable sequence for language acquisition*,
 [22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), Beppu, Japan, Jan. 2017.
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,
-A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots,
+*A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots*,
 [The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), Paris, France, Sept. 2016.
 1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月.
 1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
@@ -55,28 +55,28 @@ A Language Acquisition Method Based on Statistical Machine Translation for Appli
 1. 池田隼, 國島丈生, 横田一正. [パノラマ画像を用いた仮想空間構築](http://ci.nii.ac.jp/naid/40015217340), 日本データベース学会Letters Vol.5, No.1, pp.97-100, 2006年6月.
 1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正. [利用者指向ディジタルミュージアムの共有化とモジュール化](http://ci.nii.ac.jp/naid/40007025097), 日本データベース学会Letters, Vol.3, No.1, pp.137-140, 2004年6月.
 1. K. Yokota, T. Kunishima, A. Matono, and B. Liu.
-<a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>Management of Heterogeneous Documents</a>.
+<a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>*Management of Heterogeneous Documents*</a>.
 Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu.
-[Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626).  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
+*[Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626)*.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
 1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
-[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99).
+*[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99)*.
 Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999)
 1. 國島丈生, 横田一正.
 [Workflow Base: データベース技術に基づくワークフローモデル](http://ci.nii.ac.jp/naid/110002722306).
 情報処理学会論文誌, Vol. 39, No. 11, pp.3122-3130, 1998年11月.
-1. Takeo Kunishima, Resource Constraints on Workflow Databases, Advanced Database Systems for Integration of Media and User Environments '98, pp. 293-298, World Scientific, Apr. 1997.
+1. Takeo Kunishima, *Resource Constraints on Workflow Databases*, Advanced Database Systems for Integration of Media and User Environments '98, pp. 293-298, World Scientific, Apr. 1998.
 1. Takeo Kunishima and Kazumasa Yokota.
-[An Agent-Based Coordination Model on Workflow Databases](http://dblp.org/rec/conf/oois/KunishimaY97).
+*[An Agent-Based Coordination Model on Workflow Databases](http://dblp.org/rec/conf/oois/KunishimaY97)*.
 In Proceedings of 4th International Conference on Object-Oriented Information Systems (OOIS'97), pp.361-371, Springer, Brisbane Queensland Australia, Nov. 1997.
 1. Kazumasa Yokota, Yutaka Banjou, Takashi Kuroda, and Takeo Kunishima.
-[Extensions of Query Processing Facitilies in Mediator Systems](http://dblp.org/rec/conf/krdb/YokotaBKK97).
+*[Extensions of Query Processing Facitilies in Mediator Systems](http://dblp.org/rec/conf/krdb/YokotaBKK97)*.
 Proceedings of International Workshop on Knowledge Representation Meets Databases (KRDB'97), Athene, pp.17.1-17.8, Aug. 1997.
 1. Takeo Kunishima and Kazumasa Yokota.
-[Flexible Workflow Frameworks for Supporting Collaborative Work](http://dblp.org/rec/conf/codas/KunishimaY96).
+*[Flexible Workflow Frameworks for Supporting Collaborative Work](http://dblp.org/rec/conf/codas/KunishimaY96)*.
 In Proceedings of International Symposium on Cooperative Database Systems for Advanced Applications (CODAS'96), Kyoto, pp. 412-419, Dec. 1996. (Cooperative Databases for Advanced Applications, eds. by Y. Kambayashi and K. Yokota, pp.412-419, World Scientific, June, 1997.)
 1. Yahiko Kambayashi, Qiming Chen and Takeo Kunishima.
-[Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems](http://dblp.org/rec/conf/future/KambayashiCK92).
+*[Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems](http://dblp.org/rec/conf/future/KambayashiCK92)*.
 Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 1992.
 1. 成瀬正, 斎藤隆文, 國島丈生.
 [n球包含問題の近似解法](http://ci.nii.ac.jp/naid/40004782577).
@@ -221,7 +221,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 横田一正, 萬上裕, 黒田崇, 國島丈生.
 [QUIKメディエータにおけるオブジェクト再考](http://ci.nii.ac.jp/naid/110002930666).
 情報処理学会研究報告データベースシステム (DBS) 1997-DBS-113, pp.323-328 (電子情報通信学会技術研究報告 DE, データ工学 97(162), pp.49-54), 札幌・ロイトン札幌, 1997年7月14日.
-1. Kazumasa Yokota, Takeo Kunishima, and Hideyuki Nakanishi, Hypothetical Query Processing for Workflow Management. Proceedings of the Seminar on Logical Databases and the Meaning of Change, Dagstuhl, pp. 44-49, Sept. 1996. UPMAIL Technical Reports, No. 129, Uppsala University.
+1. Kazumasa Yokota, Takeo Kunishima, and Hideyuki Nakanishi, *Hypothetical Query Processing for Workflow Management*. Proceedings of the Seminar on Logical Databases and the Meaning of Change, Dagstuhl, pp. 44-49, Sept. 1996. UPMAIL Technical Reports, No. 129, Uppsala University.
 1. 植村俊亮, 安達淳, 有川正俊, 清木康, 下條真司, 加藤俊一, 小島功, 最所圭三, 國島丈生.
 [「マルチメディア情報ベース技術の研究」が目指すもの](http://ci.nii.ac.jp/naid/110002930943).
 情報処理学会研究報告データベースシステム (DBS) 1995-DBS-106, pp.157-164, 1996年1月24日.
@@ -232,6 +232,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 
 ### 口頭発表
 
+1. 山本一馬, 石田卓也, 岩橋直人, Ye Kyaw Thu, 國島丈生. 人とロボットによる雑談と眼前の物体に記号接地している発話の検出法. [HAIシンポジウム2016](http://hai-conference.net/symp2016/), P-61, 東京大学, 2016年12月3〜4日.
 1. 高渕健太, 坂本伸次, 植田紗也加, 岩橋直人, 國島丈生. シーケンス変換モデルに基づくロボットによる言語獲得.
 [2016年度人工知能学会全国大会(第30回)](http://www.ai-gakkai.or.jp/jsai2016), 1O2-1, 北九州国際会議場, 2016年6月6日.
 1. 吉川敦史, 岩橋直人, 船越孝太郎, 國島丈生. 線形SVMによる識別器要素モデルの結合係数の最適化.
