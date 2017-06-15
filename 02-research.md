@@ -42,12 +42,12 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 
 ### 学術論文
 
-1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, Robot Language Acquisition Based on Sequence-to-Sequence Learning,
-15th International Conference on Computer Applications 2017 (ICCA 2017), Yangon, Myanmar, Feb. 2017. (to appear)
-1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, DNN-based object manipulation to syllable sequence for language acquisition,
+1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, *Robot Language Acquisition Based on Sequence-to-Sequence Learning*,
+[15th International Conference on Computer Applications 2017 (ICCA 2017)](http://www.ucsy.edu.mm/ucsy/ICCAConference13.do), Yangon, Myanmar, Feb. 2017.
+1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, *DNN-based object manipulation to syllable sequence for language acquisition*,
 [22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), Beppu, Japan, Jan. 2017.
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,
-A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots,
+*A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots*,
 [The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), Paris, France, Sept. 2016.
 1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月.
 1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
@@ -55,28 +55,28 @@ A Language Acquisition Method Based on Statistical Machine Translation for Appli
 1. 池田隼, 國島丈生, 横田一正. [パノラマ画像を用いた仮想空間構築](http://ci.nii.ac.jp/naid/40015217340), 日本データベース学会Letters Vol.5, No.1, pp.97-100, 2006年6月.
 1. 江本守, 石崎勝俊, 大河内久貴, 国島丈生, 横田一正. [利用者指向ディジタルミュージアムの共有化とモジュール化](http://ci.nii.ac.jp/naid/40007025097), 日本データベース学会Letters, Vol.3, No.1, pp.137-140, 2004年6月.
 1. K. Yokota, T. Kunishima, A. Matono, and B. Liu.
-<a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>Management of Heterogeneous Documents</a>.
+<a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>*Management of Heterogeneous Documents*</a>.
 Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu.
-[Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626).  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
+*[Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626)*.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
 1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
-[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99).
+*[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99)*.
 Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999)
 1. 國島丈生, 横田一正.
 [Workflow Base: データベース技術に基づくワークフローモデル](http://ci.nii.ac.jp/naid/110002722306).
 情報処理学会論文誌, Vol. 39, No. 11, pp.3122-3130, 1998年11月.
-1. Takeo Kunishima, Resource Constraints on Workflow Databases, Advanced Database Systems for Integration of Media and User Environments '98, pp. 293-298, World Scientific, Apr. 1997.
+1. Takeo Kunishima, *Resource Constraints on Workflow Databases*, [Advanced Database Systems for Integration of Media and User Environments '98](http://dl.acm.org/citation.cfm?id=551375), pp. 293-298, World Scientific, Apr. 1998.
 1. Takeo Kunishima and Kazumasa Yokota.
-[An Agent-Based Coordination Model on Workflow Databases](http://dblp.org/rec/conf/oois/KunishimaY97).
+*[An Agent-Based Coordination Model on Workflow Databases](http://dblp.org/rec/conf/oois/KunishimaY97)*.
 In Proceedings of 4th International Conference on Object-Oriented Information Systems (OOIS'97), pp.361-371, Springer, Brisbane Queensland Australia, Nov. 1997.
 1. Kazumasa Yokota, Yutaka Banjou, Takashi Kuroda, and Takeo Kunishima.
-[Extensions of Query Processing Facitilies in Mediator Systems](http://dblp.org/rec/conf/krdb/YokotaBKK97).
+*[Extensions of Query Processing Facitilies in Mediator Systems](http://dblp.org/rec/conf/krdb/YokotaBKK97)*.
 Proceedings of International Workshop on Knowledge Representation Meets Databases (KRDB'97), Athene, pp.17.1-17.8, Aug. 1997.
 1. Takeo Kunishima and Kazumasa Yokota.
-[Flexible Workflow Frameworks for Supporting Collaborative Work](http://dblp.org/rec/conf/codas/KunishimaY96).
+*[Flexible Workflow Frameworks for Supporting Collaborative Work](http://dblp.org/rec/conf/codas/KunishimaY96)*.
 In Proceedings of International Symposium on Cooperative Database Systems for Advanced Applications (CODAS'96), Kyoto, pp. 412-419, Dec. 1996. (Cooperative Databases for Advanced Applications, eds. by Y. Kambayashi and K. Yokota, pp.412-419, World Scientific, June, 1997.)
 1. Yahiko Kambayashi, Qiming Chen and Takeo Kunishima.
-[Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems](http://dblp.org/rec/conf/future/KambayashiCK92).
+*[Coordination Manager: A Mechanism to Support Cooperative Work on Database Systems](http://dblp.org/rec/conf/future/KambayashiCK92)*.
 Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 1992.
 1. 成瀬正, 斎藤隆文, 國島丈生.
 [n球包含問題の近似解法](http://ci.nii.ac.jp/naid/40004782577).
@@ -221,7 +221,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 横田一正, 萬上裕, 黒田崇, 國島丈生.
 [QUIKメディエータにおけるオブジェクト再考](http://ci.nii.ac.jp/naid/110002930666).
 情報処理学会研究報告データベースシステム (DBS) 1997-DBS-113, pp.323-328 (電子情報通信学会技術研究報告 DE, データ工学 97(162), pp.49-54), 札幌・ロイトン札幌, 1997年7月14日.
-1. Kazumasa Yokota, Takeo Kunishima, and Hideyuki Nakanishi, Hypothetical Query Processing for Workflow Management. Proceedings of the Seminar on Logical Databases and the Meaning of Change, Dagstuhl, pp. 44-49, Sept. 1996. UPMAIL Technical Reports, No. 129, Uppsala University.
+1. Kazumasa Yokota, Takeo Kunishima, and Hideyuki Nakanishi, *Hypothetical Query Processing for Workflow Management*. [Proceedings of the Seminar on Logical Databases and the Meaning of Change](https://it.uu.se/research/csd/reports/0129.pdf), Dagstuhl, pp. 44-49, Sept. 1996. UPMAIL Technical Reports, No. 129, Uppsala University.
 1. 植村俊亮, 安達淳, 有川正俊, 清木康, 下條真司, 加藤俊一, 小島功, 最所圭三, 國島丈生.
 [「マルチメディア情報ベース技術の研究」が目指すもの](http://ci.nii.ac.jp/naid/110002930943).
 情報処理学会研究報告データベースシステム (DBS) 1995-DBS-106, pp.157-164, 1996年1月24日.
@@ -232,6 +232,9 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 
 ### 口頭発表
 
+1. 石田卓也, 山本一馬, 岩橋直人, Ye Kyaw Thu, 中村友昭, 長井隆行, 國島丈生. [雑談を通した物体と単語の学習](https://kaigi.org/jsai/webprogram/2017/paper-1117.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 3B2-4in1, ウインクあいち(名古屋市), 2017年5月25日.
+1. 深井海星, 武井豪介, 高渕健太, 岩橋直人, Ye Kyaw Thu, 國島丈生. [LRCNによる参照点に依存した動作の認識](https://kaigi.org/jsai/webprogram/2017/paper-1131.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 4D2-OS-37d-2in2, ウインクあいち(名古屋市), 2017年5月26日.
+1. 山本一馬, 石田卓也, 岩橋直人, Ye Kyaw Thu, 國島丈生. 人とロボットによる雑談と眼前の物体に記号接地している発話の検出法. [HAIシンポジウム2016](http://hai-conference.net/symp2016/), P-61, 東京大学, 2016年12月3〜4日.
 1. 高渕健太, 坂本伸次, 植田紗也加, 岩橋直人, 國島丈生. シーケンス変換モデルに基づくロボットによる言語獲得.
 [2016年度人工知能学会全国大会(第30回)](http://www.ai-gakkai.or.jp/jsai2016), 1O2-1, 北九州国際会議場, 2016年6月6日.
 1. 吉川敦史, 岩橋直人, 船越孝太郎, 國島丈生. 線形SVMによる識別器要素モデルの結合係数の最適化.
@@ -249,7 +252,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 [2015年度人工知能学会全国大会(第26回)](http://www.ai-gakkai.or.jp/jsai2015), 2D3-OS-12b-3, 公立はこだて未来大学, 2015年5月31日.
 1. 石田卓也, 高渕健太, 秋山俊介, 岩橋直人, 國島丈生, 中村友昭, 長井隆行, 船越孝太郎, 中野幹生.
 [ロボットの行動命令発話理解における不足情報の処理](http://id.nii.ac.jp/1001/00164230/).
-情報処理学会第77回全国大会講演論文集 2015(1), pp.139-140, 京都大学吉田キャンパス, 2015年3月17日.
+情報処理学会第77回全国大会講演論文集, pp.2.139-2.140, 京都大学吉田キャンパス, 2015年3月17日.
 1. 植田紗也佳, 岩橋直人, 國島丈生. ロボットによる動画像から抽出した深層格情報を用いた言語獲得.
 [2015年電子情報通信学会総合大会](http://www.ieice.org/jpn/event/program/2015G/index.html) ISS特別企画「学生ポスターセッション」, ISS-SP-205, 立命館大学びわこ・くさつキャンパス, 2015年3月12日.
 1. 高渕健太, 秋山俊介, 石田卓也, 岩橋直人, 國島丈生, 中村友昭, 長井隆行, 船越孝太郎, 中野幹生.
@@ -263,8 +266,8 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 [第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), A-66, 広島市立大学, 2014年11月15日〜16日. (HISS優秀論文賞)
 1. 松場亮太郎, 國島丈生, 岩橋直人. パノラマ仮想空間PasQの方位推定手法におけるRANSAC反復回数の評価.
 [第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-46, 広島市立大学, 2014年11月15日〜16日.
-1. 松場亮太郎, 國島丈生, 岩橋直人. パノラマ仮想空間PasQにおけるRANSACを用いた方位推定手法の評価.
-[平成26年度(第65回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2014/index.html), 26-1, 福山大学, 2014年10月25日.
+1. 松場亮太郎, 國島丈生, 岩橋直人. [パノラマ仮想空間PasQにおけるRANSACを用いた方位推定手法の評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201402298904267180&q=%22200901100489147842%22&t=0).
+[平成26年度(第65回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2014/index.html), 26-5, 福山大学, 2014年10月25日.
 1. 和泉良, 國島丈生, 横田一正. 総社市向け避難補助アプリケーションの開発.
 [平成25年度(第64回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2013/index.html), pp.335-336, 岡山大学, 2013年10月19日.
 1. 松場亮太郎, 國島丈生, 横田一正.
@@ -272,16 +275,16 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 情報科学技術フォーラム講演論文集 12(2), pp.135-136, 鳥取大学鳥取キャンパス, 2013年8月20日.
 1. 横田一正, 國島丈生, 安良田晃一. PasQを用いたフロア案内システムの実現. [第14回IEEE広島学生シンポジウム](http://hiss14th.sakura.ne.jp/), A-68, pp.211-213, 岡山県立大学, 2012年11月17日.
 1. 定免睦昌, 國島丈生, 横田一正. タスク間の共通ファイルを想定したタスク抽出手法とその評価. [第13回IEEE広島支部学生シンポジウム (HISS 2011)](http://hiss13th.sakura.ne.jp/), pp.353-354, 広島大学, 2011年11月12日.
-1. 定免睦昌, 國島丈生, 横田一正. ファイル挿入操作を考慮したタスク抽出手法の提案とその評価. 平成23年度(第62回)電気・情報関連学会中国支部連合大会, No.26-29, 広島工業大学, 2011年10月22日.
-1. 定免睦昌, 國島丈生, 横田一正. クラスタ間のファイル間関連度を用いた共有ファイル発見手法. 平成22年度(第61回)電気・情報関連学会連合大会, 岡山県立大学, 2010年10月23日.
-1. 最相一真, 國島丈生, 横田一正. 多種コンテンツ提示システムの実現. 平成21年度(第60回)電気・情報関連学会中国支部連合大会, 広島市立大学, 2009年10月17日.
-1. 崔景娜, 国島丈生, 横田一正. メディエーションに基づくREST型Webサービスの統合手法に関する考察. 平成20年度(第59回)電気・情報関連学会中国支部連合大会, 鳥取大学, 2008年10月25日.
-1. 池田隼, 國島丈生, 横田一正. 画像処理を用いたパノラマ画像の位置・方位推定. 平成19年度(第58回)電気・情報関連学会中国支部連合大会, 広島大学, 2007年10月20日.
-1. 納所和正, 國島丈生, 横田一正.  利用者指向ディジタルミュージアムD-Cubisの機能統合についての提案.  平成18年度(第57回)電気・情報関連学会中国支部連合大会, 岡山理科大学, 2006年10月21日.
-1. 辻圭一, 國島丈生, 横田一正.  ディジタルミュージアムにおけるコンテンツ演出のための記述言語の拡張.  平成18年度(第57回)電気・情報関連学会中国支部連合大会, 岡山理科大学, 2006年10月21日.
-1. 小坂年輝, 國島丈生, 横田一正.  XML文書構造制約間の矛盾検出に関する考察. 平成18年度(第57回)電気・情報関連学会中国支部連合大会, 岡山理科大学, 2006年10月21日.
-1. 栗栖惇, 四角隆二, 國島丈生, 横田一正.  大量の美術館所蔵品の仮想空間への提示方式.  平成18年度(第57回)電気・情報関連学会中国支部連合大会, 岡山理科大学, 2006年10月21日.
-1. 難波佐代, 国島丈生, 横田一正, 山根知子, 劉渤江.  近代文学での校異研究支援機能に関する考察.  平成18年度(第57回)電気・情報関連学会中国支部連合大会, 岡山理科大学, 2006年10月21日.
+1. 定免睦昌, 國島丈生, 横田一正. [ファイル挿入操作を考慮したタスク抽出手法の提案とその評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201302275120995930&q=%22200901100489147842%22&t=0). 平成23年度(第62回)電気・情報関連学会中国支部連合大会, No.26-29, pp.53-54, 広島工業大学, 2011年10月22日.
+1. 定免睦昌, 國島丈生, 横田一正. [ファイル間関連度を用いた共有ファイル発見手法](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201002254649890077&q=%22200901100489147842%22&t=0). 平成22年度(第61回)電気・情報関連学会連合大会講演論文集, pp.382-383, 岡山県立大学, 2010年10月23日.
+1. 最相一真, 國島丈生, 横田一正. [多種コンテンツ提示システムの実現](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902220493808291&q=%22200901100489147842%22&t=0). 平成21年度(第60回)電気・情報関連学会中国支部連合大会講演論文集, No.26-38, 広島市立大学, 2009年10月17日.
+1. 崔景娜, 国島丈生, 横田一正. [メディエーションに基づくREST型Webサービスの統合手法に関する考察](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902258777995366&q=%22200901100489147842%22&t=0). 平成20年度(第59回)電気・情報関連学会中国支部連合大会講演論文集, No.25-8, 鳥取大学, 2008年10月25日.
+1. 池田隼, 國島丈生, 横田一正. [画像処理を用いたパノラマ画像の位置・方位推定](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902280131571180&q=%22200901100489147842%22&t=0). 平成19年度(第58回)電気・情報関連学会中国支部連合大会講演論文集, No.25-9, 広島大学, 2007年10月20日.
+1. 納所和正, 國島丈生, 横田一正.  [利用者指向ディジタルミュージアムD-Cubisの機能統合についての提案](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902238306974805&q=%22200901100489147842%22&t=0).  平成18年度(第57回)電気・情報関連学会中国支部連合大会講演論文集, pp.259-260, 岡山理科大学, 2006年10月21日.
+1. 辻圭一, 國島丈生, 横田一正.  [ディジタルミュージアムにおけるコンテンツ演出のための記述言語の拡張](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902270157708502&q=%22200901100489147842%22&t=0).  平成18年度(第57回)電気・情報関連学会中国支部連合大会講演論文集, pp.261-262, 岡山理科大学, 2006年10月21日.
+1. 小坂年輝, 國島丈生, 横田一正.  [XML文書構造制約間の矛盾検出に関する考察](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902258343993543&q=%22200901100489147842%22&t=0). 平成18年度(第57回)電気・情報関連学会中国支部連合大会講演論文集, pp.263-264, 岡山理科大学, 2006年10月21日.
+1. 栗栖惇, 四角隆二, 國島丈生, 横田一正.  [大量の美術館所蔵品の仮想空間への提示方式](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902243593714294&q=%22200901100489147842%22&t=0).  平成18年度(第57回)電気・情報関連学会中国支部連合大会講演論文集, pp.265-266, 岡山理科大学, 2006年10月21日.
+1. 難波佐代, 国島丈生, 横田一正, 山根知子, 劉渤江.  [近代文学での校異研究支援機能に関する考察](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902224699873982&q=%22200901100489147842%22&t=0).  平成18年度(第57回)電気・情報関連学会中国支部連合大会講演論文集, pp.267-268, 岡山理科大学, 2006年10月21日.
 1. 松原幸平, 國島丈生, 横田一正.  ディジタルミュージアムのコンテンツ自動配置へのアプローチ.  平成16年度(第55回)電気・情報関連学会中国支部連合大会, 山口大学, 2004年10月16日.
 1. 北野正和, 国島丈生, 横田一正, 魚の名称を表現するオントロジー.  平成15年度(第54回)電気・情報関連学会中国支部連合大会, 広島国際学院大学, 2003年10月18日.
 1. 西田悟, 細田昌明, 松原幸平, 国島丈生.  デジタルミュージアムのオーサリングにおける更新機能の考察.  平成15年度(第54回)電気・情報関連学会中国支部連合大会, 広島国際学院大学, 2003年10月18日.
@@ -290,58 +293,59 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 室山恵美, 國島丈生, 横田一正, 劉渤江.  XMLへの条件付きエレメントの導入.  平成12年度(第51回)電気・情報関連学会中国支部連合大会, 岡山大学, 2000年10月21日.
 1. 的野晃整, 練苧宣行, 國島丈生, 横田一正.  マルチメディア情報を制御するQUIKのメディア管理.  平成12年度(第51回)電気・情報関連学会中国支部連合大会, 岡山大学, 2000年10月21日.
 1. 練苧宣行, 的野晃整, 横田一正, 國島丈生.
-[マルチメディア情報提示制御言語の実現](http://id.nii.ac.jp/1001/00161031/).
-情報処理学会第61回全国大会講演論文集, 2000(1), pp.125-126, 愛媛大学城北キャンパス, 2000年10月3日.
-1. 岡本辰夫, 劉渤江, 國島丈生, 横田一正.  仮想テーマパークにおけるコースのモデリング.  平成11年度(第50回)電気・情報関連学会中国支部連合大会, 広島市立大学, 1999年10月23日.
-1. 緒方啓孝, 野宮一生, 國島丈生, 横田一正.  QUIK による戯曲の視覚化.  平成11年度(第50回)電気・情報関連学会中国支部連合大会, 広島市立大学, 1999年10月23日.
-1. 田槙明子, 本行弘明, 白木善隆, 國島丈生, 横田一正.  文学データベースのための索引・検索機能の拡張.  平成10年度(第49回)電気・情報関連学会中国支部連合大会, 岡山県立大学, 1998年10月24日.
-1. 白木善隆, 本行弘明, 田槙明子, 國島丈生, 横田一正.  異種文書データの統合管理システムの構想.  平成10年度(第49回)電気・情報関連学会中国支部連合大会, 岡山県立大学, 1998年10月24日.
-1. 杉原守, 練苧宣行, 國島丈生, 横田一正.  QUIKプログラムの開発環境.  平成10年度(第49回)電気・情報関連学会中国支部連合大会, 岡山県立大学, 1998年10月24日.
-1. 杉本健二, 横川賢, 緒方啓孝, 國島丈生, 横田一正.  QUIK システムにおける分散探索の制御.  平成10年度(第49回)電気・情報関連学会中国支部連合大会, 岡山県立大学, 1998年10月24日.
-1. 練苧宣行, 杉原守, 國島丈生, 横田一正.  オントロジーによるQUIKオブジェクトの管理.  平成10年度(第49回)電気・情報関連学会中国支部連合大会, 岡山県立大学, 1998年10月24日.
-1. 本行弘明, 田槙明子, 白木善隆, 國島丈生, 横田一正.
-[文学データベースのためのプロトタイプシステムの実装](http://ci.nii.ac.jp/naid/110002892810).
-情報処理学会第57回全国大会講演論文集(データベースとメディア), pp.203-204, 名古屋大学工学部, 1998年10月5日.
+[マルチメディア情報制御言語の実現](http://id.nii.ac.jp/1001/00161031/).
+情報処理学会第61回全国大会講演論文集, pp.3.125-3.126, 愛媛大学城北キャンパス, 2000年10月3日.
+1. 岡本辰夫, 劉渤江, 國島丈生, 横田一正.  [仮想テーマパークにおけるコースのモデリング](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902118898644203&q=%22200901100489147842%22&t=0).  平成11年度(第50回)電気・情報関連学会中国支部連合大会講演論文集, pp.336-337, 広島市立大学, 1999年10月23日.
+1. 緒方啓孝, 野宮一生, 國島丈生, 横田一正.  [QUIK による戯曲の視覚化](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902108255139557&q=%22200901100489147842%22&t=0).  平成11年度(第50回)電気・情報関連学会中国支部連合大会講演論文集, pp.339-340, 広島市立大学, 1999年10月23日.
+1. 白木善隆, 本行弘明, 田槙明子, 國島丈生, 横田一正.  [異種文書データの統合管理システムの構想](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902147879728625&q=%22200901100489147842%22&t=0).  平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.111-112, 岡山県立大学, 1998年10月24日.
+1. 田槙明子, 本行弘明, 白木善隆, 國島丈生, 横田一正.  [文学データベースのための索引・検索機能の拡張](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902132637214980&q=%22200901100489147842%22&t=0).  平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.113-114, 岡山県立大学, 1998年10月24日.
+1. 練苧宣行, 杉原守, 國島丈生, 横田一正.  [オントロジーによるQUIKオブジェクトの管理](http://jglobal.jst.go.jp/public/20090422/200902171588831532).  平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.175-176, 岡山県立大学, 1998年10月24日.
+1. 杉本健二, 横川賢, 緒方啓孝, 國島丈生, 横田一正.  [QUIK システムにおける分散探索の制御](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902163855999666&q=%22200901100489147842%22&t=0).  平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.177-178, 岡山県立大学, 1998年10月24日.
+1. 杉原守, 練苧宣行, 國島丈生, 横田一正.  [QUIKプログラムの開発環境](http://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902127550964840&q=%22200901100489147842%22&t=0).  平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.179-180, 岡山県立大学, 1998年10月24日.
+1. 横川賢, 緒方啓孝, 杉本健二, 國島丈生, 横田一正. [QUIKシステムにおける問合せ処理の制御](http://jglobal.jst.go.jp/detail/?JGLOBAL_ID=200902190923010691&q=%22200901100489147842%22&t=0). 平成10年度(第49回)電気・情報関連学会中国支部連合大会講演論文集, pp.181-182, 岡山県立大学, 1998年10月24日.
 1. 緒方啓孝, 杉本健二, 横川賢, 國島丈生, 横田一正.
 [メディエータシステムの外部解消系の実現](http://ci.nii.ac.jp/naid/110002892759).
-情報処理学会第57回全国大会講演論文集(データベースとメディア), pp.101-102, 名古屋大学工学部, 1998年10月5日.
+情報処理学会第57回全国大会講演論文集, pp.3.101-3.102, 名古屋大学工学部, 1998年10月5日.
+1. 本行弘明, 田槙明子, 白木善隆, 國島丈生, 横田一正.
+[文学データベースのためのプロトタイプシステムの実装](http://ci.nii.ac.jp/naid/110002892810).
+情報処理学会第57回全国大会講演論文集, pp.3.203-3.204, 名古屋大学工学部, 1998年10月5日.
 1. 国島丈生, 横田一正.
 [ワークフローモデルWorkflow Baseにおけるワークフロー質問言語](http://ci.nii.ac.jp/naid/110002891682).
-情報処理学会第55回全国大会講演論文集(インタフェース), pp.177-178, 福岡工業大学, 1997年9月24日.
+情報処理学会第55回全国大会講演論文集, pp.4.177-4.178, 福岡工業大学, 1997年9月24日.
 1. 国島丈生, 上林弥彦.
 [開放型ワークフロー管理システムに関する考察](http://ci.nii.ac.jp/naid/110002878396).
-情報処理学会第51回全国大会講演論文集(システム), pp.179-180, 富山大学, 1995年9月20日.
+情報処理学会第51回全国大会講演論文集, pp.6.179-6.180, 富山大学, 1995年9月20日.
 1. 瀬川典久, 樋地正浩, 国島丈生, 渡邉勝正.
 [動的なコミュニケーションの枠組みの記述](http://ci.nii.ac.jp/naid/110002878404).
-情報処理学会第51回全国大会講演論文集(システム), pp.187-188, 富山大学, 1995年9月20日.
+情報処理学会第51回全国大会講演論文集, pp.6.187-6.188, 富山大学, 1995年9月20日.
 1. 国島丈生, 上林弥彦.
 [ワークフロー管理システムWorkFlowBaseのプロトタイプの実現と評価](http://ci.nii.ac.jp/naid/110002896310).
-情報処理学会第50回全国大会講演論文集(システム), pp.183-184, 青山学院大学, 1995年3月15日.
+情報処理学会第50回全国大会講演論文集, pp.6.183-6.184, 青山学院大学, 1995年3月15日.
 1. 国島丈生, 上林弥彦.
 [ワークフローモデルにおけるビュー機能](http://ci.nii.ac.jp/naid/110002886184).
-情報処理学会第49回全国大会講演論文集(システム), pp.247-248, 北海道大学教養部, 1994年9月20日.
+情報処理学会第49回全国大会講演論文集, pp.6.247-6.248, 北海道大学教養部, 1994年9月20日.
 1. 国島丈生, 上林弥彦.
 [活動オブジェクトに基づく作業フローモデルの実行手続き](http://ci.nii.ac.jp/naid/110002873574).
-情報処理学会第48回全国大会講演論文集(システム), pp.241-242, 東京理科大学, 1994年3月7日.
+情報処理学会第48回全国大会講演論文集, pp.6.241-6.242, 東京理科大学, 1994年3月7日.
 1. 国島丈生, 上林弥彦.
 [集約階層をなす協調作業上における作業間の属性の継承](http://ci.nii.ac.jp/naid/110002885095).
-情報処理学会第47回全国大会講演論文集(システム), pp.283-284, 鳥取大学, 1993年9月27日.
+情報処理学会第47回全国大会講演論文集, pp.6.283-6.284, 鳥取大学, 1993年9月27日.
 1. 国島丈生, 島田智明, 上林弥彦.
 [Virtual Office における一般化トリガの実現とその応用](http://ci.nii.ac.jp/naid/110002883322).
-情報処理学会第46回全国大会講演論文集(システム), pp.247-248, 工学院大学, 1993年3月1日.
+情報処理学会第46回全国大会講演論文集, pp.6.247-6.248, 工学院大学, 1993年3月1日.
 1. 国島丈生, 上林弥彦.
 [協調活動の動的有限オートマトンによる記述手法](http://ci.nii.ac.jp/naid/110002883324).
-情報処理学会第46回全国大会講演論文集(システム), pp.249-250, 工学院大学, 1993年3月1日.
+情報処理学会第46回全国大会講演論文集, pp.6.249-6.250, 工学院大学, 1993年3月1日.
 1. 国島丈生, 上林彌彦.
 [データベースを用いた協同作業支援機構におけるスケジュール管理](http://ci.nii.ac.jp/naid/110002890128).
-情報処理学会第45回全国大会講演論文集(システム), pp.281-282, 徳島大学教養部, 1992年9月28日.
+情報処理学会第45回全国大会講演論文集, pp.6.281-6.282, 徳島大学教養部, 1992年9月28日.
 1. 國島丈生, 古川哲也, 上林彌彦.
 [オブジェクト指向データベースの会話的設計支援方式](http://ci.nii.ac.jp/naid/110002888688).
-情報処理学会第44回全国大会講演論文集(ソフトウェア), pp.169-170, 明治大学理工学部, 1992年2月24日.
+情報処理学会第44回全国大会講演論文集, pp.4.169-4.170, 明治大学理工学部, 1992年2月24日.
 1. 国島丈生, 石垣博康, 上林弥彦.
 [Virtual Officeにおける仮想オフィス間の通信機能](http://ci.nii.ac.jp/naid/110002889064).
-情報処理学会第44回全国大会講演論文集(システム), pp.285-286, 明治大学理工学部, 1992年2月24日.
-1. 國島丈生, 上林彌彦, 論理型言語HILOG-RのCADデータベースへの応用. 情報処理学会第43回全国大会, 名古屋大学, 1991年10月19〜22日.
+情報処理学会第44回全国大会講演論文集, pp.6.285-6.286, 明治大学理工学部, 1992年2月24日.
+1. 國島丈生, 上林彌彦, [論理型言語HILOG-RのCADデータベースへの応用](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902023689518771&q=%22200901100489147842%22&t=0). 情報処理学会第43回全国大会講演論文集, pp.4.158-4.159, 名古屋大学, 1991年10月19〜22日.
 
 ## 外部資金獲得状況
 
