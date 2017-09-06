@@ -43,12 +43,12 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 ### 学術論文
 
 1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, *Robot Language Acquisition Based on Sequence-to-Sequence Learning*,
-[15th International Conference on Computer Applications 2017 (ICCA 2017)](http://www.ucsy.edu.mm/ucsy/ICCAConference13.do), Yangon, Myanmar, Feb. 2017.
+[15th International Conference on Computer Applications 2017 (ICCA 2017)](http://www.ucsy.edu.mm/ucsy/ICCAConference13.do), pp.461-471, Yangon, Myanmar, Feb. 2017.
 1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, *DNN-based object manipulation to syllable sequence for language acquisition*,
-[22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), Beppu, Japan, Jan. 2017.
+[22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), pp.638-642, Beppu, Japan, Jan. 2017.
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,
-*A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots*,
-[The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), Paris, France, Sept. 2016.
+[*A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots*](http://ieeexplore.ieee.org/document/7846837/),
+[The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), pp.300-301, Paris, France, Sept. 2016.
 1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月.
 1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
 1. 田村晃一, 池田隼, 國島丈生, 横田一正. [パノラマ画像の4次元配置による仮想空間の拡張](http://ci.nii.ac.jp/naid/40015217340). 日本データベース学会Letters, Vol.6, No.1, pp.101-104. 2007年6月.
@@ -289,7 +289,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 北野正和, 国島丈生, 横田一正, 魚の名称を表現するオントロジー.  平成15年度(第54回)電気・情報関連学会中国支部連合大会, 広島国際学院大学, 2003年10月18日.
 1. 西田悟, 細田昌明, 松原幸平, 国島丈生.  デジタルミュージアムのオーサリングにおける更新機能の考察.  平成15年度(第54回)電気・情報関連学会中国支部連合大会, 広島国際学院大学, 2003年10月18日.
 1. 三戸健二, 國島丈生, 横田一正.  XMLに対する簡易スタイル付け手法の提案.  平成14年度(第53回)電気・情報関連学会中国支部連合大会, 島根大学, 2002年10月19日.
-1. 岡本愛子, 赤木絵里, 國島丈生, 横田一正.  マルチメディアコンテンツの柔軟なモデリング方式の考察.  第2回IEEE広島支部学生シンポジウム, 広島・広島市立基町高等学校, 2001年1月13日.
+1. 岡本愛子, 赤木絵里, 國島丈生, 横田一正.  マルチメディアコンテンツの柔軟なモデリング方式の考察.  第2回IEEE広島支部学生シンポジウム, No.050, 広島・広島市立基町高等学校, 2001年1月13日. (優秀プレゼンテーション賞)
 1. 室山恵美, 國島丈生, 横田一正, 劉渤江.  XMLへの条件付きエレメントの導入.  平成12年度(第51回)電気・情報関連学会中国支部連合大会, 岡山大学, 2000年10月21日.
 1. 的野晃整, 練苧宣行, 國島丈生, 横田一正.  マルチメディア情報を制御するQUIKのメディア管理.  平成12年度(第51回)電気・情報関連学会中国支部連合大会, 岡山大学, 2000年10月21日.
 1. 練苧宣行, 的野晃整, 横田一正, 國島丈生.
