@@ -267,7 +267,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 松場亮太郎, 國島丈生, 岩橋直人. パノラマ仮想空間PasQの方位推定手法におけるRANSAC反復回数の評価.
 [第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-46, 広島市立大学, 2014年11月15日〜16日.
 1. 松場亮太郎, 國島丈生, 岩橋直人. [パノラマ仮想空間PasQにおけるRANSACを用いた方位推定手法の評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201402298904267180&q=%22200901100489147842%22&t=0).
-[平成26年度(第65回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2014/index.html), 26-5, 福山大学, 2014年10月25日.
+[平成26年度(第65回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2014/index.html), 26-5, pp.136-137, 福山大学, 2014年10月25日.
 1. 和泉良, 國島丈生, 横田一正. 総社市向け避難補助アプリケーションの開発.
 [平成25年度(第64回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2013/index.html), pp.335-336, 岡山大学, 2013年10月19日.
 1. 松場亮太郎, 國島丈生, 横田一正.
