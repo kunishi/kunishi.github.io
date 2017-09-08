@@ -189,7 +189,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 情報処理学会研究報告データベースシステム(DBS) 2002-DBS-128, pp.123-130 (電子情報通信学会技術研究報告 DE, データ工学 102(208), pp.1-6), 日光国立公園・鬼怒川温泉, 2002年7月18日.
 1. 岡本辰夫, 吉田奈美子, 國島丈生, 横田一正.
 [XML操作スクリプト言語による個人化手法の提案](http://www.ieice.org/~de/DEWS/proc/2002/papers/A6-4.pdf).
-電子情報通信学会第13回データ工学ワークショップ論文集, A6-3, 倉敷国際ホテル, 2002年3月6日.
+電子情報通信学会第13回データ工学ワークショップ論文集, A6-4, 倉敷国際ホテル, 2002年3月6日.
 1. 的野晃整, 野宮一生, 板谷昌洋, 国島丈生, 横田一正.
 [意味的に拡張したXMLとその応用のためのデータベースエンジンの実現](http://www.ieice.org/~de/DEWS/proc/2002/papers/A5-2.pdf).
 電子情報通信学会第13回データ工学ワークショップ論文集, A5-2, 倉敷国際ホテル, 2002年3月6日.
@@ -242,11 +242,11 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 牧野知也, 岩橋直人, 國島丈生, 中村友昭, ⻑井隆行. [強化学習と期待効用最大化と階層ディリクレ過程に基づくロボットによる最適支援行動選択と場所の分節化.](http://hai-conference.net/symp2015/proceedings/html/paper/paper-G-13.html)
 [HAIシンポジウム2015](http://hai-conference.net/symp2015/), G-13, pp.80-85, ISSN 1882-5346, 東京大学, 2015年12月5日〜6日.
 1. 牧野知也, 岩橋直人, 国島丈生. 強化学習と期待効用最大化に基づくロボットによる人間の行動予測と最適支援行動選択.
-[第17回IEEE広島学生シンポジウム(HISS2015)](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), B-70, pp.501-505, 岡山大学, 2015年11月21日〜22日. (HISS優秀論文賞)
+[第17回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), B-70, pp.501-505, 岡山大学, 2015年11月21日〜22日. (HISS優秀論文賞)
 1. 坂本伸次, 植田紗也佳, 岩橋直人, 国島丈生. 統計的機械翻訳技術に基づくロボットの言語獲得.
-[第17回IEEE広島学生シンポジウム(HISS2015)](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), A-69, pp.240-243, 岡山大学, 2015年11月21日〜22日.
+[第17回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), A-69, pp.240-243, 岡山大学, 2015年11月21日〜22日.
 1. 吉川敦史, 岩橋直人, 高渕健太, 中村友昭, 長井隆行, 船越幸太郎, 國島丈生. SVMを用いた複数識別器出力の線形結合係数の最適化.
-[第17回IEEE広島学生シンポジウム(HISS2015)](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), A-60, pp.204-208, 岡山大学, 2015年11月21日〜22日.
+[第17回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/17th/HP/index.html), A-60, pp.204-208, 岡山大学, 2015年11月21日〜22日.
 1. 植田紗也佳, 岩橋直人, 國島丈生.
 [ロボットによる実世界情報を用いた付属語の獲得](http://ci.nii.ac.jp/naid/40020494739).
 [2015年度人工知能学会全国大会(第26回)](http://www.ai-gakkai.or.jp/jsai2015), 2D3-OS-12b-3, 公立はこだて未来大学, 2015年5月31日.
@@ -261,11 +261,11 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 植田紗也佳, 岩橋直人, 國島丈生, 中村友昭, 長井隆行. ロボットによる言語獲得のための教師なし単語分割.
 [計測自動制御学会 システム・情報部門 学術講演会 2014 (SSI2014)](http://www.sice.or.jp/org/ci/SSI2014/), SS3-3, 岡山大学, 2014年11月21日〜23日.
 1. 植田紗也佳, 岩橋直人, 國島丈生. 統計的モデル選択に基づいた教師なし単語分割.
-[第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-73, 広島市立大学, 2014年11月15日〜16日. (HISS優秀論文賞)
+[第16回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-73, 広島市立大学, 2014年11月15日〜16日. (HISS優秀論文賞)
 1. 門田理恵, 國島丈生, 岩橋直人. 摂取食材と余剰食材を考慮したレシピ推薦手法の提案.
-[第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), A-66, 広島市立大学, 2014年11月15日〜16日. (HISS優秀論文賞)
+[第16回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), A-66, 広島市立大学, 2014年11月15日〜16日. (HISS優秀論文賞)
 1. 松場亮太郎, 國島丈生, 岩橋直人. パノラマ仮想空間PasQの方位推定手法におけるRANSAC反復回数の評価.
-[第16回IEEE広島学生シンポジウム(HISS2014)](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-46, 広島市立大学, 2014年11月15日〜16日.
+[第16回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/hiss/16th/HP/index.html), B-46, 広島市立大学, 2014年11月15日〜16日.
 1. 松場亮太郎, 國島丈生, 岩橋直人. [パノラマ仮想空間PasQにおけるRANSACを用いた方位推定手法の評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201402298904267180&q=%22200901100489147842%22&t=0).
 [平成26年度(第65回)電気・情報関連学会中国支部連合大会](http://rentai-chugoku.org/2014/index.html)講演論文集, 26-5, pp.136-137, 福山大学, 2014年10月25日.
 1. 和泉良, 國島丈生, 横田一正. [総社市向け避難補助アプリケーションの開発](http://rentai-chugoku.org/2013/2013/program/1203_abst.html#28-13).
@@ -273,8 +273,8 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 1. 松場亮太郎, 國島丈生, 横田一正.
 [パノラマ仮想空間構築のためのRANSACを用いた方位推定方法](http://ci.nii.ac.jp/naid/110009814464).
 情報科学技術フォーラム講演論文集 12(2), pp.135-136, 鳥取大学鳥取キャンパス, 2013年8月20日.
-1. 横田一正, 國島丈生, 安良田晃一. PasQを用いたフロア案内システムの実現. [第14回IEEE広島学生シンポジウム](http://hiss14th.sakura.ne.jp/), A-68, pp.211-213, 岡山県立大学, 2012年11月17日.
-1. 定免睦昌, 國島丈生, 横田一正. タスク間の共通ファイルを想定したタスク抽出手法とその評価. [第13回IEEE広島支部学生シンポジウム (HISS 2011)](http://hiss13th.sakura.ne.jp/), pp.353-354, 広島大学, 2011年11月12日.
+1. 横田一正, 國島丈生, 安良田晃一. PasQを用いたフロア案内システムの実現. [第14回IEEE広島支部学生シンポジウム](http://hiss14th.sakura.ne.jp/), A-68, pp.211-213, 岡山県立大学, 2012年11月17日.
+1. 定免睦昌, 國島丈生, 横田一正. タスク間の共通ファイルを想定したタスク抽出手法とその評価. [第13回IEEE広島支部学生シンポジウム](http://hiss13th.sakura.ne.jp/), pp.353-354, 広島大学, 2011年11月12日.
 1. 定免睦昌, 國島丈生, 横田一正. [ファイル挿入操作を考慮したタスク抽出手法の提案とその評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201302275120995930&q=%22200901100489147842%22&t=0). 平成23年度(第62回)電気・情報関連学会中国支部連合大会講演論文集, 26-29, pp.53-54, 広島工業大学, 2011年10月22日.
 1. 定免睦昌, 國島丈生, 横田一正. [ファイル間関連度を用いた共有ファイル発見手法](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201002254649890077&q=%22200901100489147842%22&t=0). 平成22年度(第61回)電気・情報関連学会連合大会講演論文集, 26-17, pp.382-383, 岡山県立大学, 2010年10月23日.
 1. 最相一真, 國島丈生, 横田一正. [多種コンテンツ提示システムの実現](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902220493808291&q=%22200901100489147842%22&t=0). 平成21年度電気・情報関連学会中国支部第60回連合大会講演論文集, 26-38, pp.66-67, 広島市立大学, 2009年10月17日.
