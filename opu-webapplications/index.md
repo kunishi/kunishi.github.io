@@ -17,17 +17,19 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 この講義をやるにあたり、近い講義がないか調べたのですが、未だに見つけられていません。もしかすると、
 全国でも1つしかない珍しい内容なのかもしれません。
 
-## 関連ブログ投稿
-
-- [Webの基礎技術に関する講義、3年目終了](https://knsm.net/web%E3%81%AE%E5%9F%BA%E7%A4%8E%E6%8A%80%E8%A1%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AC%9B%E7%BE%A9-3%E5%B9%B4%E7%9B%AE%E7%B5%82%E4%BA%86-d243d9f8bf78#.kaj75op74)
-
-## 2016年度講義資料
+## 講義資料
 
 [GitBookで公開](https://kunishi.gitbooks.io/web-application-textbook/)しています。Webブラウザで閲覧できるほか、PDFやEPUBなどの形式でもダウンロードできます。講義の進行に伴って改訂を頻繁に行っていますので、最新版をチェックするようにしてください。
 
 なお、[この資料のソース](https://github.com/kunishi/web-application-textbook)はGitHubで管理しています。
 
 [2016年度のシラバス](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=46290)は大学Webサイト内で公開されています。
+
+## 講義の実施記録(2017年度)
+
+1. 講義の概要, Webの位置付け (講義資料1章) (2017-09-25)
+2. Webアーキテクチャスタイル (講義資料2章) (2017-10-02)
+3. 文字コード, URI (講義資料3章・補遺) (2017-10-10)
 
 ## 過去の定期試験問題
 
@@ -47,3 +49,7 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 - [RFC3986](http://www.ietf.org/rfc/rfc3986.txt)（URIの規格）
 - [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html.en)（[日本語訳](http://www.kanzaki.com/docs/Style/URI.html)）
 - [http2 explained](https://www.gitbook.com/book/bagder/http2-explained/details)（HTTP/2の解説書、Daniel Stenberg著、GitBookによるオンライン書籍、日本語訳あり）
+
+## 関連ブログ投稿
+
+- [Webの基礎技術に関する講義、3年目終了](https://knsm.net/web%E3%81%AE%E5%9F%BA%E7%A4%8E%E6%8A%80%E8%A1%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AC%9B%E7%BE%A9-3%E5%B9%B4%E7%9B%AE%E7%B5%82%E4%BA%86-d243d9f8bf78#.kaj75op74)

@@ -8,6 +8,13 @@ title: 流通科学大学・ネットコミュニティ論
 
 インターネットによって、我々は、場所に依存しないネットワーク上だけのコミュニティという新たなコミュニケーションの手段を得ました。そして、情報技術の発達に伴い、ネットワーク上のコミュニティは再び実社会と交わり、多様な情報サービスへと発展しています。本講義では、このように多様に発展するネットコミュニティを理解することを目的とし、利用者側と運営側の双方から、また多様な情報サービスとの関わりからネットコミュニティを解説します。
 
+## 講義の実施記録(2017年度)
+
+1. [講義の概要](https://drive.google.com/open?id=1nYLLOeilLzqaNY9C8iRdem9_oiomWRLorTm_znf_gk4) (2017-09-22)
+2. [ネットコミュニティの形](https://drive.google.com/open?id=10-LvlefgWz_NRTXzi-oTkSWKznzl3kNK2JOxhi8UXaM) (2017-09-29)
+3. [ネットコミュニティとシステムアーキテクチャ](https://drive.google.com/open?id=1POSIeZhgozX3OT79hKUNO87loimhTheYEDch9fLLIyE) (2017-10-06)
+4. [運営者側から見たSNS](https://drive.google.com/open?id=1PnHqn439wyt8jQH90IzEx2zt-9F5vQkKrz8diS7yDQE) (2017-10-13)
+
 ## 講義の実施記録(2016年度)
 
 各回で配布した講義資料へのリンクを張っています。

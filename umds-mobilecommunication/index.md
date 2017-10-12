@@ -8,6 +8,13 @@ title: 流通科学大学・モバイルコミュニケーション
 
 スマートフォンに代表されるモバイル端末が爆発的に普及する中で、情報サービスもモバイル端末からの利用を前提としたものに急速に変化しています。モバイル端末はもともと個人が持ち歩いて利用することを想定しており、処理性能、通信速度、画面サイズ、操作性のいずれの点でも制約が大きく、情報サービスもこれらの制約を踏まえて設計されなければなりません。本講義では、コミュニケーションツールとしてのモバイル端末、さらには情報サービスでのモバイル端末の利用について、インターネット・通信技術との関連を含めて解説を行います。
 
+## 講義の実施記録(2017年度)
+
+1. [講義の概要の説明](https://drive.google.com/open?id=10R8LeZBuiUkogCyc0GVBE3lAxoB7GNKOnDgR1ws8EMc) (2017-09-22)
+2. [モバイル機器の特性、通信、インターネット](https://drive.google.com/open?id=1hkOnu4ScEg0KEOYVk-vQu6NZI6icqIhRh4vTuhZvDOo) (2017-09-29)
+3. [無線](https://drive.google.com/open?id=1iQB9P83_W4BpOO5pmg1uORUkeJowBLtAAocS0rcYGTU) (2017-10-06)
+4. [無線LAN](https://drive.google.com/open?id=1rSpDzZTWkfK4eXjhg7TuKeYaQkiMtAM88pYv4Fd_uds) (2017-10-13)
+
 ## 講義の実施記録(2016年度)
 
 各回で配布した講義資料へリンクを張っています。
