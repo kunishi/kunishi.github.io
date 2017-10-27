@@ -14,6 +14,7 @@ title: 流通科学大学・モバイルコミュニケーション
 2. [モバイル機器の特性、通信、インターネット](https://drive.google.com/open?id=1hkOnu4ScEg0KEOYVk-vQu6NZI6icqIhRh4vTuhZvDOo) (2017-09-29)
 3. [無線](https://drive.google.com/open?id=1iQB9P83_W4BpOO5pmg1uORUkeJowBLtAAocS0rcYGTU) (2017-10-06)
 4. [無線LAN](https://drive.google.com/open?id=1rSpDzZTWkfK4eXjhg7TuKeYaQkiMtAM88pYv4Fd_uds) (2017-10-13)
+5. [電話](https://drive.google.com/open?id=1fa_t2DfajxFdFGyAf0l8MrQGmxRjBseR1JnEm7GyOMc) (2017-10-27)
 
 ## 講義の実施記録(2016年度)
 
