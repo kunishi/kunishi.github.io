@@ -29,7 +29,7 @@ permalink: /opu-technical-english/
 全般的には面白い演習になったと思いますが、ACM-ICPCの問題文の英語が想定より易しめだったというのが
 やや誤算で、講義の趣旨からすると英語の読解が軽めになってるなあ、という反省は常にありました。
 
-で、私が主に担当した最後である2013年度では、Roy Fieldingの有名な博士論文である [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)を
+で、私が主に担当した最後である2013年度では、Roy Fieldingの有名な博士論文である <a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm" data-proofer-ignore>Architectural Styles and the Design of Network-based Software Architectures</a>を
 日本語訳しながら輪講するという内容に変えました。Webやネットワークのソフトウェア設計に関して、
 まず読んでもらいたい英文専門書といえば、まずこれだよね、ということで選びました。
 まあ、ちょっと3年生には難しかったかなと思います。そもそも、アーキテクチャというものをほとんど学んだ

@@ -59,7 +59,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002.
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu.
 *[Semantic Extensions of XML for Advanced Applications](http://dl.acm.org/citation.cfm?id=545626)*.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
-1. Kazumasa Yokota and Takeo Kunishima. *Workflow Modeling from a Database Point of View.* [Advances in Multimedia and Databases for the New Century](http://www.worldscientific.com/worldscibooks/10.1142/4427#t=aboutBook), pp.26-34, World Scientific, Apr. 2000.
+1. Kazumasa Yokota and Takeo Kunishima. *Workflow Modeling from a Database Point of View.* <a href="http://www.worldscientific.com/worldscibooks/10.1142/4427#t=aboutBook" data-proofer-ignore>Advances in Multimedia and Databases for the New Century</a>, pp.26-34, World Scientific, Apr. 2000.
 1. Takeo Kunishima, Kazumasa Yokota, Bojiang Liu, and Tadaaki Miyake.  
 *[Towards Integrated Management of Heterogeneous Documents](http://dblp.org/rec/conf/codas/KunishimaYLM99)*.
 Int. Conf. Cooperative Database Systems for Advanced Applications (CODAS'99), Wollongong, Australia, Mar. 1999. (Cooperative Databases and Applications '99, pp.39-51, Springer, Sep., 1999)
