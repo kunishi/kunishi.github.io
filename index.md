@@ -16,6 +16,9 @@ layout: default
   - サーバ管理の自動化 (特に Unix, Linux)
   - ソフトウェアの成立過程
 
+また、フォントや組版、タイポグラフィに非常に興味を持っており、文字コードなどその
+周辺技術にも関心がある。いつかこの辺りに関する研究ができれば、と考えている。
+
 ## ソーシャルメディア
 
 - <a href="https://twitter.com/kunishi" data-proofer-ignore>Twitter</a>
