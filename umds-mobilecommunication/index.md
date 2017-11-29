@@ -15,6 +15,8 @@ title: 流通科学大学・モバイルコミュニケーション
 3. [無線](https://drive.google.com/open?id=1iQB9P83_W4BpOO5pmg1uORUkeJowBLtAAocS0rcYGTU) (2017-10-06)
 4. [無線LAN](https://drive.google.com/open?id=1rSpDzZTWkfK4eXjhg7TuKeYaQkiMtAM88pYv4Fd_uds) (2017-10-13)
 5. [電話](https://drive.google.com/open?id=1fa_t2DfajxFdFGyAf0l8MrQGmxRjBseR1JnEm7GyOMc) (2017-10-27)
+6. [電子メール](https://drive.google.com/open?id=1__znAr-DlozR2VLlV9i9yjNE1CEQJWw5lq6vzM1WAEI) (2017-11-17)
+7. [メッセージングサービス](https://drive.google.com/open?id=1sJntY0vcimbxq3Rha_saJCZIkcyY2Tnm1PYzfE5v2Ys) (2017-11-24)
 
 ## 講義の実施記録(2016年度)
 
