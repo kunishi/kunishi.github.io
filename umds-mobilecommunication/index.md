@@ -17,6 +17,7 @@ title: 流通科学大学・モバイルコミュニケーション
 5. [電話](https://drive.google.com/open?id=1fa_t2DfajxFdFGyAf0l8MrQGmxRjBseR1JnEm7GyOMc) (2017-10-27)
 6. [電子メール](https://drive.google.com/open?id=1__znAr-DlozR2VLlV9i9yjNE1CEQJWw5lq6vzM1WAEI) (2017-11-17)
 7. [メッセージングサービス](https://drive.google.com/open?id=1sJntY0vcimbxq3Rha_saJCZIkcyY2Tnm1PYzfE5v2Ys) (2017-11-24)
+8. [モバイルアプリ](https://docs.google.com/document/d/1SAziNmKLzxwa1ydyuso253Guu4Ddj9uyfUBf8q7FNys/edit?usp=sharing) (2017-12-01)
 
 ## 講義の実施記録(2016年度)
 
