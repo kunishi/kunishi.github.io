@@ -29,5 +29,4 @@ title: ウェブインテリジェンスを支えるXML（再）入門
 
 ## 参考資料
 
-- [参考資料ブックマーク](https://del.icio.us/kunishi/xmltut200812)
 - [参考論文ブックマーク](http://www.citeulike.org/user/kunishima/tag/xmltut200812)
