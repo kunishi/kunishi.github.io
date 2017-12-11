@@ -18,6 +18,7 @@ title: 流通科学大学・ネットコミュニティ論
 6. [推薦](https://drive.google.com/open?id=1Sw0Ux0vnq4L27qWI8JQBFs1rHS5XBWBWvP2bAEJeTk4) (2017-11-17)
 7. [クチコミ](https://drive.google.com/open?id=1r51JiMP1T4R-tpezPW8LjTQOPX6Abv-WOvAcANnd9nk) (2017-11-24)
 8. [企業とユーザとのコミュニケーション](https://docs.google.com/document/d/1WpNdz98LDXxC-0Hv4Wa0cixVLwshvfNokMkbgdiuRYE/edit?usp=sharing) (2017-12-01)
+9. [無料(フリー)](https://drive.google.com/open?id=1R6l-MpAasbXUrRjHrZCVeUcIxDjGFgwd5jtV3-sN8xg) (2017-12-08)
 
 ## 講義の実施記録(2016年度)
 
