@@ -16,7 +16,7 @@ title: 岡山県立大学・講義「情報倫理・セキュリティ」実施�
 
 - 2017年11月29日: [セキュリティとは、暗号技術](https://docs.google.com/presentation/d/14A8xX84NIFQ5sp6qhNOm8mndhdxZ5v7Qjg86BaYYsnA/edit?usp=sharing)
 - 2017年12月6日: [暗号技術の応用](https://docs.google.com/presentation/d/1999VopnQ2bkK9NUZJ0zugrnJs0THWTM14GwDAfXxLC8/edit?usp=sharing)
-- 2017年12月13日: マルウェア対策（予定）
+- 2017年12月13日: [不正プログラムとその対策](https://drive.google.com/open?id=13DPIp6-x6pjqaivDrmz5d9DBEcxSYhna7DU_LJyDAgo)
 - 2018年1月?: 仮想通貨（予定、日程未定）
 
 ## 参考文献
