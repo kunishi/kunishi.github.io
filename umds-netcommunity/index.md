@@ -20,6 +20,7 @@ title: 流通科学大学・ネットコミュニティ論
 8. [企業とユーザとのコミュニケーション](https://docs.google.com/document/d/1WpNdz98LDXxC-0Hv4Wa0cixVLwshvfNokMkbgdiuRYE/edit?usp=sharing) (2017-12-01)
 9. [無料(フリー)](https://drive.google.com/open?id=1R6l-MpAasbXUrRjHrZCVeUcIxDjGFgwd5jtV3-sN8xg) (2017-12-08)
 10. [SNSとセキュリティ](https://goo.gl/jaiwKy) (2017-12-15)
+11. [炎上](https://goo.gl/J3iELS) (2017-12-16)
 
 ## 講義の実施記録(2016年度)
 
