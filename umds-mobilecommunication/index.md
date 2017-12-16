@@ -20,7 +20,8 @@ title: 流通科学大学・モバイルコミュニケーション
 8. [モバイルアプリ](https://docs.google.com/document/d/1SAziNmKLzxwa1ydyuso253Guu4Ddj9uyfUBf8q7FNys/edit?usp=sharing) (2017-12-01)
 9. [位置情報サービス](https://drive.google.com/open?id=1-jIxakdt-hIZQtGwW2TBH2hKVv0eLCwDAFAy63epaPU) (2017-12-08)
 10. [決済](https://goo.gl/mhVk2s) (2017-12-15)
-11. [健康管理とモバイル](https://goo.gl/ZJh9KA) (2017-12-16)
+11. 自由な質疑応答 (資料なし) (2017-12-16)
+<!-- 12. [健康管理とモバイル](https://goo.gl/ZJh9KA) (2017-12-23) -->
 
 ## 講義の実施記録(2016年度)
 
