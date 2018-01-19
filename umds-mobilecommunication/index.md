@@ -24,6 +24,7 @@ title: 流通科学大学・モバイルコミュニケーション
 12. [健康管理とモバイル](https://goo.gl/utQY9h) (2017-12-22)
 13. [個人認証とモバイル](https://goo.gl/aZQPwk) (2018-01-05)
 14. [文字とモバイル](https://drive.google.com/open?id=1JqB0PBIe0KrVXvDftuKGa6_JfSDzMDIVYK5Lt0mO-Bo) (2018-01-12)
+15. [仮想通貨](https://drive.google.com/open?id=12JWZojBrE3MYuarpYT1rhsSZBX0rujFMUZLt3tMX8Hg) (2018-01-19)
 
 ## 講義の実施記録(2016年度)
 

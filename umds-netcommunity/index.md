@@ -24,6 +24,7 @@ title: 流通科学大学・ネットコミュニティ論
 12. [炎上](https://goo.gl/J3iELS) (2017-12-22)
 13. [SNSの影](https://goo.gl/SPfZiY) (2018-01-05)
 14. [クリエイターとSNS](https://drive.google.com/open?id=1_D6LouvlYIBd3IFkgA4IDz0mpRjoUX3GzMqW-VHpdQ0) (2018-01-12)
+15. [人が集まるコミュニティ](https://drive.google.com/open?id=18gppyW-Sg-Zpietk0CZD0jCZw-sa2DnskzxcK3Rx9k0) (2018-01-19)
 
 ## 講義の実施記録(2016年度)
 
