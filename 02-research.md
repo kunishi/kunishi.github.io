@@ -141,8 +141,9 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 [足守プロジェクト: 仮想空間システムによる文化的景観のディジタル化](http://ci.nii.ac.jp/naid/170000069046).
 情報処理学会研究報告デジタルドキュメント(DD), 2012-DD-84(6), pp.1-6, 京都大学, 2012年1月13日. [[PDF]](https://www.dropbox.com/s/54rlre2jrww9656/103.pdf?dl=0)
 1. 渡谷真以, 上田文太, 小宮山哲, 國島丈生, 横田一正.
-[パノラマ仮想空間PasQにおける履歴共有機能の実現](http://db-event.jpn.org/deim2011/proceedings/pdf/d9-5.pdf). [[PDF]](https://www.dropbox.com/s/h8pc9wqi7bthstc/099.pdf?dl=0)
+[パノラマ仮想空間PasQにおける履歴共有機能の実現](http://db-event.jpn.org/deim2011/proceedings/pdf/d9-5.pdf).
 第3回データ工学と情報マネジメントに関するフォーラム (DEIM2011), D9-5, 伊豆・ラフォーレ修善寺, 2011年3月1日.
+[[PDF]](https://www.dropbox.com/s/h8pc9wqi7bthstc/099.pdf?dl=0)
 1. 定免睦昌, 國島丈生, 横田一正.
 [複数タスク環境におけるユーザ操作に基づくファイル間関連度の導出](http://db-event.jpn.org/deim2010/proceedings/files/D1-3.pdf).
 第2回データ工学と情報マネジメントに関するフォーラム (DEIM2010), D1-3, 淡路・淡路夢舞台国際会議場, 2010年2月28日. [[PDF]](https://www.dropbox.com/s/ej21opjnqys9kor/097.pdf?dl=0)
