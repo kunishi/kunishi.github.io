@@ -48,7 +48,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 [22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), pp.638-642, Beppu, Japan, Jan. 2017. [[PDF]](https://www.dropbox.com/s/tvulcc1e997sf5c/125.pdf?dl=0)
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,
 [*A Language Acquisition Method Based on Statistical Machine Translation for Application to Robots*](http://ieeexplore.ieee.org/document/7846837/),
-[The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016)](http://www.icdl-epirob.org/), pp.300-301, Paris, France, Sept. 2016. [[PDF]](https://www.dropbox.com/s/yz2na8bhrmuy4gh/123.pdf?dl=0)
+The 6th IEEE International Conference on Developmental Learning and Epigenetic Robotics (ICDL-EPIROB 2016), pp.300-301, Paris, France, Sept. 2016. [[PDF]](https://www.dropbox.com/s/yz2na8bhrmuy4gh/123.pdf?dl=0)
 1. 小宮山哲, 國島丈生, 横田一正. [コンテンツ演出のためのシナリオ記述言語](http://ci.nii.ac.jp/naid/40015670762). 日本データベース学会Letters, Vol.6, No.2, pp.13-16. 2007年9月. [[PDF]](https://www.dropbox.com/s/cw5ceimvtxy5mfs/091.pdf?dl=0)
 1. 桑原理, 鷲見京子, 國島丈生, 横田一正. [利用者指向ディジタルミュージアムの大規模実証実験と考察](http://ci.nii.ac.jp/naid/40015591104). 日本データベース学会Letters, Vol.6, No.1, pp.105-108. 2007年6月.
 [[PDF]](https://www.dropbox.com/s/dfr4ugec1tgcu7e/087.pdf?dl=0)
