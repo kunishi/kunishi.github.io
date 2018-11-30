@@ -283,6 +283,10 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 
 ### 口頭発表
 
+1. 石川遼太, 國島丈生. ブロックチェーンを用いたインターネット投票, 第20回IEEE広島学生シンポジウム, A2-14, pp.140-143, 鳥取大学, 2018年11月17日〜18日. [[PDF]](https://www.dropbox.com/s/x1lgnh76b4fb0tz/129.pdf?dl=0)
+1. 山下直也, 國島丈生. Reactフレームワークを用いたWebアプリケーション開発におけるアクセシビリティ対応支援システム, 第20回IEEE広島学生シンポジウム, A2-15, pp.144-146, 鳥取大学, 2018年11月17日〜18日. [[PDF]](https://www.dropbox.com/s/mijc2x1ggrf4115/132.pdf?dl=0)
+1. 守屋綾祐, 國島丈生. 仮想通貨技術を用いたデータ収集システムの構築, 第20回IEEE広島学生シンポジウム, A2-23, pp.171-173, 鳥取大学, 2018年11月17日〜18日. [[PDF]](https://www.dropbox.com/s/tyto7xfkowkfcyx/131.pdf?dl=0)
+1. 佐々木友弥, 國島丈生. トランプゲームのイカサマ行為防止のための異常検知手法, 第20回IEEE広島学生シンポジウム, B1-24, pp.258-260, 鳥取大学, 2018年11月17日〜18日. [[PDF]](https://www.dropbox.com/s/bnqandbq0bge2h4/130.pdf?dl=0)
 1. 石田卓也, 山本一馬, 岩橋直人, Ye Kyaw Thu, 中村友昭, 長井隆行, 國島丈生. [雑談を通した物体と単語の学習](https://www.ai-gakkai.or.jp/jsai2017/webprogram/2017/paper-1117.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 3B2-4in1, ウインクあいち(名古屋市), 2017年5月25日. [[PDF]](https://www.dropbox.com/s/q02uwpnwa89esm3/127.pdf?dl=0)
 1. 深井海星, 武井豪介, 高渕健太, 岩橋直人, Ye Kyaw Thu, 國島丈生. [LRCNによる参照点に依存した動作の認識](https://www.ai-gakkai.or.jp/jsai2017/webprogram/2017/paper-1131.html), [2017年度人工知能学会全国大会(第31回)](http://www.ai-gakkai.or.jp/jsai2017/), 4D2-OS-37d-2in2, ウインクあいち(名古屋市), 2017年5月26日. [[PDF]](https://www.dropbox.com/s/l0sl6zbcwea5fx4/128.pdf?dl=0)
 1. 山本一馬, 石田卓也, 岩橋直人, Ye Kyaw Thu, 國島丈生. 人とロボットによる雑談と眼前の物体に記号接地している発話の検出法. [HAIシンポジウム2016](http://hai-conference.net/symp2016/), P-61, 東京大学, 2016年12月3〜4日. [[PDF]](https://www.dropbox.com/s/f6vham95sw26sr3/124.pdf?dl=0)
