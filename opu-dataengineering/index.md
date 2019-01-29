@@ -49,6 +49,12 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 - 2016年度
     - [情報通信工学科](opu-c-dataengineering-exam-2016.pdf)
     - [情報システム工学科・スポートシステム工学科](opu-cse-ss-dataengineering-exam-2016.pdf)
+- 2017年度
+    - [情報通信工学科](https://docs.google.com/document/d/1AvDnxtjQUC869aoHAUKczgUaAaQAW5rfwyfrJzkKeaw/edit?usp=sharing)
+    - [情報システム工学科・人間情報工学科](https://docs.google.com/document/d/1ID1gwuae7_IYNNXWbWguNNi9Ih9UkD_fc2G1rS9lnXQ/edit?usp=sharing)
+- 2018年度
+    - [情報通信工学科](https://docs.google.com/document/d/1Khjj79BFv1_Vns3glCztfVfiK1u5irJdt47x1BISqoQ/edit?usp=sharing)
+    - [情報システム工学科・人間情報工学科](https://docs.google.com/document/d/1Xwf1ECrJa5kWB1AzoCxQxzQv35dzNBZEefmsSZajKEE/edit?usp=sharing)
 
 以下は、2002年から2008年にかけて岡山理科大学総合情報学部生物・地球システム学科で担当していた
 講義「データベース」の定期試験問題です。参考までにこれも掲載しておきます。
