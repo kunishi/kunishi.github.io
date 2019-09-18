@@ -3,4 +3,4 @@ set -e
 
 gem install bundler
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --allow-hash-href --http-status-ignore "301"
+bundle exec htmlproofer ./_site --allow-hash-href --http-status-ignore "301, 302"
