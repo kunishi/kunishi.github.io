@@ -26,7 +26,3 @@ title: ウェブインテリジェンスを支えるXML（再）入門
 - [XML情報検索（再）入門](20081211_wi2_hatano.pdf)（PDF形式）…Copyright 2008, Kenji Hatano, All rights reserved.
 - [グラフ検索（再）入門](20081211SIGWI2tutorial_sakamoto.pdf)（PDF形式）…Copyright 2008, Hiroshi Sakamoto, All rights reserved.
 - [RDF（再）入門](200812_WI2_RDF_matono.pdf)（PDF形式）…Copyright 2008, Akiyoshi Matono, All rights reserved.
-
-## 参考資料
-
-- [参考論文ブックマーク](http://www.citeulike.org/user/kunishima/tag/xmltut200812)

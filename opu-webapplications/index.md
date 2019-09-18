@@ -23,8 +23,6 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 
 なお、[この資料のソース](https://github.com/kunishi/web-application-textbook)はGitHubで管理しています。
 
-[2016年度のシラバス](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=46290)は大学Webサイト内で公開されています。
-
 ## 講義の実施記録(2017年度)
 
 1. 講義の概要, Webの位置付け (講義資料2章) (2017-09-25)
