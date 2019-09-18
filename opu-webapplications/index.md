@@ -48,8 +48,8 @@ Webアクセシビリティに関する最低限の知識もまた、Webに関�
 
 ## 参考書
 
-- [Webを支える技術](http://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3)（山本陽平著、技術評論社、ISBN 978-4-7741-4204-3）
-- [パターン、Wiki、XPー時を超えた創造の原則](http://gihyo.jp/magazine/wdpress/plus/978-4-7741-3897-8)（江渡浩一郎著、技術評論社、ISBN 978-4-7741-3897-8）
+- [Webを支える技術](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3)（山本陽平著、技術評論社、ISBN 978-4-7741-4204-3）
+- [パターン、Wiki、XPー時を超えた創造の原則](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-3897-8)（江渡浩一郎著、技術評論社、ISBN 978-4-7741-3897-8）
 
 ## 参考資料
 

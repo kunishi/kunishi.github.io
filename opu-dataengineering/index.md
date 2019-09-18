@@ -4,14 +4,6 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 ---
 岡山県立大学情報工学部で開講している講義「データ工学」のサポートページです。
 
-## シラバス
-
-3学科での開講となっており、シラバスも学科ごとに用意しています。以下は平成28年度(2016年度)のものです。
-
-- [情報通信工学科](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=70250)
-- [情報システム工学科](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=70920)
-- [スポーツシステム工学科](http://pubinfo.oka-pu.ac.jp/searchApp/viewSyllabus.php?id=71450)
-
 ## 講義メモ
 
 講義を実施するにあたり、私が用意しているメモです。必ずしも講義の内容を全て記載しているわけでは
