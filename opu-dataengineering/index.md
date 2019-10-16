@@ -4,12 +4,13 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 ---
 岡山県立大学情報工学部で開講している講義「データ工学」のサポートページです。
 
-## 講義メモ
+## 講義メモ(2018年度まで使用)
 
 講義を実施するにあたり、私が用意しているメモです。必ずしも講義の内容を全て記載しているわけでは
 ありませんし、逆に講義では話していない内容が含まれていることもあります。
 
-実際の講義でも、だいたいこの順序で話を進めています。
+2018年度までは、実際の講義でも、だいたいこの順序で話を進めていました。現在は教科書に沿って話を
+進めるようにしています。
 
 1. [導入](https://docs.google.com/document/d/1NN2tjvmu3p_e5wTfTuC6L4CqQWupl-VJUwtuKPTG1sw/edit?usp=sharing)
 1. [集合、組、関係](https://docs.google.com/document/d/1UKHgC3b_ey5A5omUbqFsPxzgDBrBraRlmTTLjq9jaRY/edit?usp=sharing)
@@ -47,6 +48,7 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 - 2018年度
     - [情報通信工学科](https://docs.google.com/document/d/1Khjj79BFv1_Vns3glCztfVfiK1u5irJdt47x1BISqoQ/edit?usp=sharing)
     - [情報システム工学科・人間情報工学科](https://docs.google.com/document/d/1Xwf1ECrJa5kWB1AzoCxQxzQv35dzNBZEefmsSZajKEE/edit?usp=sharing)
+- [2019年度](https://docs.google.com/document/d/1IR-_oCE0F6mFIlWv5NHtZCLGw8NTzUW1ypiH7E5_c3Y/edit?usp=sharing)
 
 以下は、2002年から2008年にかけて岡山理科大学総合情報学部生物・地球システム学科で担当していた
 講義「データベース」の定期試験問題です。参考までにこれも掲載しておきます。

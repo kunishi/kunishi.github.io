@@ -2,7 +2,7 @@
 layout: page
 title: 岡山県立大学・講義「情報倫理・セキュリティ」実施記録
 ---
-2017年度に岡山県立大学情報工学部で実施された講義「情報倫理・セキュリティ」の一部を担当しました。その記録です。
+2017年度から岡山県立大学情報工学部の講義「情報倫理・セキュリティ」を担当しています。その記録です。
 
 ## 講義概要と経緯
 
@@ -12,12 +12,14 @@ title: 岡山県立大学・講義「情報倫理・セキュリティ」実施�
 中心に元々のシラバスが構成されていたので、だいたいどこでも話せますよ、と申告していたところ、暗号技術と
 その応用、マルウェア対策、仮想通貨などを話すことになりました。
 
-## 2017年度の実施記録
+2019年度から、情報通信工学科・人間情報工学科の2学科で、全15回を担当することになりました。
 
-- 2017年11月29日: [セキュリティとは、暗号技術](https://docs.google.com/presentation/d/14A8xX84NIFQ5sp6qhNOm8mndhdxZ5v7Qjg86BaYYsnA/edit?usp=sharing)
-- 2017年12月6日: [暗号技術の応用](https://docs.google.com/presentation/d/1999VopnQ2bkK9NUZJ0zugrnJs0THWTM14GwDAfXxLC8/edit?usp=sharing)
-- 2017年12月13日: [不正プログラムとその対策](https://drive.google.com/open?id=13DPIp6-x6pjqaivDrmz5d9DBEcxSYhna7DU_LJyDAgo)
-- 2018年1月17日: [仮想通貨](https://docs.google.com/presentation/d/1QwGU6dG3r5PYjHCpdIWzx8I81Zq3ds_NIR0VURAnRRg/edit?usp=sharing)
+## 2019年度の実施記録
+
+- 第1回: [導入](https://docs.google.com/presentation/d/1QrPg1OwtXUI_b_LlROWzUwakz1Cax9KFMFX2XyYWzJI/edit?usp=sharing)
+- 第2回: [OS](https://docs.google.com/presentation/d/1CHfDn9Ggpe8So22l00IytHes5YHd4zXxBJo1r4FYm38/edit?usp=sharing)
+- 第3回: [ネットワーク、通信](https://docs.google.com/presentation/d/1HJsuClUxcmLQv3dKZKQt-BysRGXloY-ywFDPAazJknE/edit?usp=sharing)
+- 第4回: [コンピュータのセキュリティ](https://docs.google.com/presentation/d/1LvMcre_xg07bO029z0J4REF6skDlE4jeWn0ZrEm0wCI/edit?usp=sharing)
 
 ## 参考文献
 
