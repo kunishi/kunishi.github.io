@@ -16,10 +16,27 @@ title: 岡山県立大学・講義「情報倫理・セキュリティ」実施�
 
 ## 2019年度の実施記録
 
-- 第1回: [導入](https://docs.google.com/presentation/d/1QrPg1OwtXUI_b_LlROWzUwakz1Cax9KFMFX2XyYWzJI/edit?usp=sharing)
-- 第2回: [OS](https://docs.google.com/presentation/d/1CHfDn9Ggpe8So22l00IytHes5YHd4zXxBJo1r4FYm38/edit?usp=sharing)
-- 第3回: [ネットワーク、通信](https://docs.google.com/presentation/d/1HJsuClUxcmLQv3dKZKQt-BysRGXloY-ywFDPAazJknE/edit?usp=sharing)
-- 第4回: [コンピュータのセキュリティ](https://docs.google.com/presentation/d/1LvMcre_xg07bO029z0J4REF6skDlE4jeWn0ZrEm0wCI/edit?usp=sharing)
+一部、2018年度の資料のままになっていますので、実際に講義でやった内容と多少違いがあります。
+
+1. [導入](https://docs.google.com/presentation/d/1QrPg1OwtXUI_b_LlROWzUwakz1Cax9KFMFX2XyYWzJI/edit?usp=sharing)
+2. [OS](https://docs.google.com/presentation/d/1CHfDn9Ggpe8So22l00IytHes5YHd4zXxBJo1r4FYm38/edit?usp=sharing)
+3. [ネットワーク、通信](https://docs.google.com/presentation/d/1HJsuClUxcmLQv3dKZKQt-BysRGXloY-ywFDPAazJknE/edit?usp=sharing)
+4. [コンピュータのセキュリティ](https://docs.google.com/presentation/d/1LvMcre_xg07bO029z0J4REF6skDlE4jeWn0ZrEm0wCI/edit?usp=sharing)
+5. [暗号理論(1)](https://docs.google.com/presentation/d/13jmQpacketI5H0jtsipU-mgjEGruE78vmT4UyX6_RU8/edit?usp=sharing)
+6. [暗号理論(2)](https://docs.google.com/presentation/d/1KQRn2JQafQVLaVipPSFKCoDC209J5365qFM7fPfkhXc/edit?usp=sharing)
+7. [仮想通貨](https://docs.google.com/presentation/d/1tYbHjSoJVVkzCsuMOZOWoR79bNBdf6Wgd0aiCr7pPD4/edit?usp=sharing)
+8. 電子メールのセキュリティ（公開資料なし）
+9. 認証技術（公開資料なし）
+10. Web（公開資料なし）
+11. [Webのセキュリティ](https://docs.google.com/presentation/d/1poH7J6jdOgysjgl2THdwU2aPvBEBjwCVZLYunOaBH3s/edit?usp=sharing)
+12. [コンテンツ保護、プライバシー保護](https://docs.google.com/presentation/d/1u_SmsY6IpzuzFfxD1dQKAn3cOyTGT1tG4AT96j9XlS0/edit?usp=sharing)
+
+## 過去の定期試験問題
+
+2017〜2018年度は一部分のみの担当でしたので、その範囲での試験問題となっています。
+
+- [2018年度](https://docs.google.com/document/d/1rZsO3YgsFvFeW1ph6ERKvJ2kxUplfoJjluO0A6JBNJ0/edit?usp=sharing)
+- [2017年度](https://docs.google.com/document/d/1i4tQRRNsttiBjRNlJKJ_tm4x8N9UXEzlBwfvo13feEA/edit?usp=sharing)
 
 ## 参考文献
 
