@@ -30,5 +30,6 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Run tests
-      run: bundle exec jekyll build
-      run: bundle exec htmlproofer ./_site --allow-hash-href --http-status-ignore "301, 302"    
+      run: |
+        bundle exec jekyll build
+        bundle exec htmlproofer ./_site --allow-hash-href --http-status-ignore "301, 302"    
