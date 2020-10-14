@@ -21,5 +21,5 @@ google_analytics: UA-1843615-14
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "script"]
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-sitemap
