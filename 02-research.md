@@ -35,7 +35,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 情報処理学会研究報告デジタルドキュメント(DD) 2009-DD-73(5), pp.1-1, 東京大学本郷キャンパス, 2009年9月18日.
 (<a href="http://www.slideshare.net/kunishi/20090925-html5" data-proofer-ignore>発表資料</a>
 1. 國島丈生, チュートリアル「XML（再）入門」,
-[電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会](http://www.ieice.org/~wi2/pastitem/past23.html), 横浜・神奈川近代文学館, 2008年12月12日. ([サポートページ](/xmltut200812/)を用意しています)
+電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会, 横浜・神奈川近代文学館, 2008年12月12日. ([サポートページ](/xmltut200812/)を用意しています)
 1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 東京大学駒場キャンパス・生産技術研究所, 2002年11月5日. (<a href="http://www.slideshare.net/kunishi/vldb2002-report200210231500" data-proofer-ignore>発表資料</a>
 1. 垂水弘幸, 国島丈生. グループウェア・CSCWの研究動向.
 文部省科学研究費重点領域研究「高度データベース」北海道ワークショップ講演論文集, pp.13-30, 北海道, 1997年7月.
@@ -340,7 +340,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 [パノラマ仮想空間構築のためのRANSACを用いた方位推定方法](http://id.nii.ac.jp/1001/00152057/).
 情報科学技術フォーラム講演論文集 12(2), pp.135-136, 鳥取大学鳥取キャンパス, 2013年8月20日. [[PDF]](https://www.dropbox.com/s/neqckyvs2mjq9tt/105.pdf?dl=0)
 1. 横田一正, 國島丈生, 安良田晃一. PasQを用いたフロア案内システムの実現. [第14回IEEE広島支部学生シンポジウム](http://hiss14th.sakura.ne.jp/), A-68, pp.211-213, 岡山県立大学, 2012年11月17日. [[PDF]](https://www.dropbox.com/s/uniktec8aprcdp1/104.pdf?dl=0)
-1. 定免睦昌, 國島丈生, 横田一正. タスク間の共通ファイルを想定したタスク抽出手法とその評価. [第13回IEEE広島支部学生シンポジウム](http://hiss13th.sakura.ne.jp/), pp.353-354, 広島大学, 2011年11月12日. [[PDF]](https://www.dropbox.com/s/a7a32sjunt9cwvp/101.pdf?dl=0)
+1. 定免睦昌, 國島丈生, 横田一正. タスク間の共通ファイルを想定したタスク抽出手法とその評価. [第13回IEEE広島支部学生シンポジウム](http://www.ieee-jp.org/section/hiroshima/student_symposium/hiss13th/), pp.353-354, 広島大学, 2011年11月12日. [[PDF]](https://www.dropbox.com/s/a7a32sjunt9cwvp/101.pdf?dl=0)
 1. 定免睦昌, 國島丈生, 横田一正. [ファイル挿入操作を考慮したタスク抽出手法の提案とその評価](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201302275120995930&q=%22200901100489147842%22&t=0). 平成23年度(第62回)電気・情報関連学会中国支部連合大会講演論文集, 26-29, pp.53-54, 広島工業大学, 2011年10月22日. [[PDF]](https://www.dropbox.com/s/wj110oazemo62rv/100.pdf?dl=0)
 1. 定免睦昌, 國島丈生, 横田一正. [ファイル間関連度を用いた共有ファイル発見手法](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=201002254649890077&q=%22200901100489147842%22&t=0). 平成22年度(第61回)電気・情報関連学会連合大会講演論文集, 26-17, pp.382-383, 岡山県立大学, 2010年10月23日. [[PDF]](https://www.dropbox.com/s/jvzi962bo7jivoo/098.pdf?dl=0)
 1. 最相一真, 國島丈生, 横田一正. [多種コンテンツ提示システムの実現](http://jglobal.jst.go.jp/detail.php?JGLOBAL_ID=200902220493808291&q=%22200901100489147842%22&t=0). 平成21年度電気・情報関連学会中国支部第60回連合大会講演論文集, 26-38, pp.66-67, 広島市立大学, 2009年10月17日. [[PDF]](https://www.dropbox.com/s/1l6ewulp933n6u5/096.pdf?dl=0)
@@ -462,7 +462,7 @@ Proc. 2nd Far-East Workshop on Future Database Systems, Kyoto, pp.176-183, Apr. 
 ### その他の競争的資金
 
 - メディエータ技術を利用したマルチメディア情報統合管理技術の研究開発（2001〜2003、経済産業省「新規産業創造技術開発費補助金（情報通信技術開発事業）」、研究分担者）
-- [科学技術振興機構（JST）・戦略的創造研究推進事業CREST「記号創発ロボティクスによる人間機械コラボレーション基盤創成」](http://sercrest.com/)（2015年度〜2019年度、研究分担者, 52,000千円（プロジェクト全体390,000千円））
+- 科学技術振興機構（JST）・戦略的創造研究推進事業CREST「記号創発ロボティクスによる人間機械コラボレーション基盤創成」（2015年度〜2019年度、研究分担者, 52,000千円（プロジェクト全体390,000千円））
 
 ### 学内競争的資金
 

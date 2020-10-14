@@ -8,8 +8,7 @@ title: ウェブインテリジェンスを支えるXML（再）入門
 
 - 開催日：2008-12-11（木）
 - 開催場所：神奈川近代文学館
-- 主催：[電子情報通信学会Webインテリジェンスとインタラクション研究会(SIG WI2)](http://www.ieice.org/~wi2/)
-    - [第13回研究会のページ](http://www.ieice.org/~wi2/pastitem/past23.html)
+- 主催：電子情報通信学会Webインテリジェンスとインタラクション研究会(SIG WI2)
 - 構成
     - XML（再）入門（[國島丈生](https://researchmap.jp/kunishima), 岡山県立大学）
     - XMLデータベース（再）入門（[天笠俊之](https://researchmap.jp/amagasa), 筑波大学）
