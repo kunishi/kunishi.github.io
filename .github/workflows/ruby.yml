@@ -29,9 +29,9 @@ jobs:
     - name: Build site
       run: bundle exec jekyll build
     - name: Check HTML
-        uses: chabad360/htmlproofer@master
-        with:
-          directory: "./site"
-          # The directory to scan
-          arguments: --allow-missing-href --allow-hash-href --http-status-ignore "301, 302"
-          # The arguments to pass to HTMLProofer
+      uses: chabad360/htmlproofer@master
+      with:
+        directory: "./site"
+        # The directory to scan
+        arguments: --allow-missing-href --allow-hash-href --http-status-ignore "301, 302"
+        # The arguments to pass to HTMLProofer
