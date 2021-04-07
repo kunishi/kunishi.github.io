@@ -22,6 +22,7 @@ layout: default
 ## ソーシャルメディア
 
 - <a href="https://twitter.com/kunishi" data-proofer-ignore>Twitter</a>
+- <a href="https://instagram.com/kunishi" data-proofer-ignore>Instagram</a>
 - <a href="https://jp.linkedin.com/in/takeokunishima" data-proofer-ignore>LinkedIn</a>
 - <a href="https://researchmap.jp/kunishima/" data-proofer-ignore>Researchmap</a>
 - <a href="https://github.com/kunishi" data-proofer-ignore>GitHub</a>
