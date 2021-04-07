@@ -73,4 +73,3 @@ title: 岡山県立大学・講義「データ工学」サポートページ
 上にあげたsAccessの他にも、SQLをWebブラウザ上で実行して結果を見ることのできる学習サイトはいくつかある。以下、著者が発見したサイトを以下に挙げておく。
 
 - [SQL Zoo](http://sqlzoo.net/) （英語）
-- [StudyByYourself.com](http://studybyyourself.com/seminar/sql/course/?lang=ja) （日本語）
