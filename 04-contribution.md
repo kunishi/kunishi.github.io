@@ -53,6 +53,7 @@ permalink: /contribution/
 - Webとデータベースに関するフォーラム（WebDB Forum）2010プログラム委員
 - 第2回データ工学と情報マネジメントに関するフォーラム（DEIM2010） コメンテータ
 - Webとデータベースに関するフォーラム（WebDB Forum）2009プログラム委員
+- Technical Program Committee Member, 1st International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2009)
 - 第9回IEEE広島学生シンポジウム（HISS2007）研究審査委員
 - 第18回データ工学ワークショップ（DEWS2007）プログラム委員
 - Program Committee Member, 12th International Conference on Database Systems for Advanced Applications (DASFAA2007)
