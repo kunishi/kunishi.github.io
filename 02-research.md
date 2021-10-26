@@ -43,7 +43,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 ### 学術論文
 
 1. Ye Kyaw Thu, Kenta Takabuchi, Kaisei Fukai, Naoto Iwahashi and Takeo Kunishima, *Robot Language Acquisition Based on Sequence-to-Sequence Learning*,
-[15th International Conference on Computer Applications 2017 (ICCA 2017)](http://www.ucsy.edu.mm/ucsy/ICCAConference13.do), pp.461-471, Yangon, Myanmar, Feb. 2017. [[PDF]](https://www.dropbox.com/s/e7oagr0av6izi13/126.pdf?dl=0)
+15th International Conference on Computer Applications 2017 (ICCA 2017), pp.461-471, Yangon, Myanmar, Feb. 2017. [[PDF]](https://www.dropbox.com/s/e7oagr0av6izi13/126.pdf?dl=0)
 1. Kenta Takabuchi, Naoto Iwahasi, Ye Kyaw Thu, and Takeo Kunishima, *DNN-based object manipulation to syllable sequence for language acquisition*,
 [22nd International Symposium on Artificial Life and Robotics (AROB 22nd 2017)](http://isarob.org/symposium/), pp.638-642, Beppu, Japan, Jan. 2017. [[PDF]](https://www.dropbox.com/s/tvulcc1e997sf5c/125.pdf?dl=0)
 1. Kenta Takabuchi, Naoto Iwahashi, and Takeo Kunishima,

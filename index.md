@@ -3,7 +3,7 @@ layout: default
 ---
 ![snapshot on ACM ICPC 2015 at Tsukuba](/assets/img/IMG_0234.jpeg)
 
-岡山県立大学准教授。ソフトウェア開発に興味を持つ。特に以下のような
+追手門学院大学教授。ソフトウェア開発に興味を持つ。特に以下のような
 分野に興味があり、大学での教育研究の中での実践を行なっている。
 
 - 構造化文書の処理技術
@@ -22,6 +22,7 @@ layout: default
 ## ソーシャルメディア
 
 - <a href="https://twitter.com/kunishi" data-proofer-ignore>Twitter</a>
+- <a href="https://instagram.com/kunishi" data-proofer-ignore>Instagram</a>
 - <a href="https://jp.linkedin.com/in/takeokunishima" data-proofer-ignore>LinkedIn</a>
 - <a href="https://researchmap.jp/kunishima/" data-proofer-ignore>Researchmap</a>
 - <a href="https://github.com/kunishi" data-proofer-ignore>GitHub</a>
