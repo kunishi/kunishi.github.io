@@ -29,8 +29,6 @@ FreeBSDのportsシステムをSolarisに移植したもの。FreeBSDのportsの�
 を扱う必要があったこと、比較的複雑な構造の半構造データを扱う必要があったことなどから、XMLでソースを
 用意し、XSLTでHTMLに変換するというアーキテクチャになっています。
 
-[GitHubで公開しています](https://github.com/kunishi/chorusroom-cms)。
-
 ### service.dbsj.org
 
 [日本データベース学会](https://dbsj.org/)が会員向けに提供している研究動画配信サービスの
