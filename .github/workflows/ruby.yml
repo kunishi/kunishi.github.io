@@ -33,5 +33,5 @@ jobs:
       with:
         directory: "./_site"
         # The directory to scan
-        arguments: --allow-missing-href --allow-hash-href --ignore-status-codes "301, 302" --enforce-https=false
+        arguments: --allow-missing-href --allow-hash-href --ignore-status-codes "301, 302" --enforce-https false
         # The arguments to pass to HTMLProofer
