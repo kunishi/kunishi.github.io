@@ -33,7 +33,7 @@ FreeBSDのportsシステムをSolarisに移植したもの。FreeBSDのportsの�
 
 ### service.dbsj.org
 
-[日本データベース学会](http://dbsj.org/)が会員向けに提供している研究動画配信サービスの
+[日本データベース学会](https://dbsj.org/)が会員向けに提供している研究動画配信サービスの
 ためのサーバサイドWebアプリケーション。Railsで実装しています。2011年2月に開発を開始し、2ヶ月
 ほどでローンチ、その後2016年初め頃まで保守・運用を続けていました。初めてRailsを使った割には
 まあまあのスピードでローンチできたのではないかと思いますが…
@@ -46,7 +46,7 @@ HTML5の動画再生は混乱期で、H.264, WebM, Ogg Theoraの3通りの動画
 
 ### weightlearner
 
-[2015年度に卒業した学生の研究成果](http://www.ieice.org/jpn/event/program/2016G/Settings/ab/d_20_003.html)
+[2015年度に卒業した学生の研究成果](https://www.ieice.org/jpn/event/program/2016G/Settings/ab/d_20_003.html)
 をPythonで実装し直したもの。当該学生はC++で実装していたのですが、ライブラリとして使える状態に
 なっておらず(というかmain()関数だけという構成でした…)、自分のPython・numpyの勉強も兼ねて、
 一から作り直したものです。
@@ -70,7 +70,7 @@ Chefのレシピもどきを多数書いています。多くはGitHubで公開�
 
 ### member.dbsj.org
 
-[日本データベース学会](http://dbsj.org)の会員管理Webアプリケーションのリファクタリング・保守・
+[日本データベース学会](https://dbsj.org)の会員管理Webアプリケーションのリファクタリング・保守・
 運用を、2002年頃から2016年初めまで行いました。最初は当時の研究室の学生さんに書いてもらった超レガシーな
 PHPアプリケーション(HTMLとPHPが入り混じっているような…)で、なんとか動いていたものの、もちろん
 テストも全くなく、バグ修正や改修も一苦労な状態でした。諸事情で、途中から私が一人でメンテナンスする
@@ -85,7 +85,7 @@ MVCアーキテクチャに沿ったWebアプリケーションとなり、ユ�
 
 ### algebra-ruby2
 
-知人から、[原信一郎先生](http://magazine.rubyist.net/?0023-Hotlinks)が公開されていたRubyの代数ライブラリ `algebra` がRuby1.9で動かないと
+知人から、[原信一郎先生](https://magazine.rubyist.net/?0023-Hotlinks)が公開されていたRubyの代数ライブラリ `algebra` がRuby1.9で動かないと
 相談を受けまして、Ruby1.9以降でも動くように改修を行ったものです。原先生にご報告したところ、
 たいそう喜んでいただきまして、先生のページからもリンクを張っていただいています。私自身は
 このパッケージで扱うような数学は全く素人で、かつ(このライブラリでかなり激しく使っている)Rubyの
@@ -123,8 +123,8 @@ C, C++, Perl, Shell, Pythonと多岐にわたる言語で実装された30以上
 
 ### XPath 2.0
 
-[XPath 2.0の勧告候補(CR)](http://www.w3.org/TR/2006/CR-xpath20-20060608/),
-[XQuery 1.0の勧告候補(CR)](http://www.w3.org/TR/2006/CR-xquery-20060608/)
+[XPath 2.0の勧告候補(CR)](https://www.w3.org/TR/2006/CR-xpath20-20060608/),
+[XQuery 1.0の勧告候補(CR)](https://www.w3.org/TR/2006/CR-xquery-20060608/)
 を、自分の勉強を兼ねて翻訳したものです。かなりの分量で、その後の原文の変更をキャッチアップする
 ことができなかったこと、すでにW3C勧告になっているものであることなどの理由で、
 [作業レポジトリをGitHubで公開](https://github.com/kunishi/xpath20-translation)

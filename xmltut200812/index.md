@@ -20,7 +20,7 @@ title: ウェブインテリジェンスを支えるXML（再）入門
 
 各講演スライドの著作権は、それぞれの発表者に属します。ただし、国島の発表分「XML（再）入門」については Creative Commons Attribution 2.1 License を適用します。
 
-- <a href="http://www.slideshare.net/kunishi/sig-wi2-xml-tutorial-presentation" data-proofer-ignore>XML（再）入門</a> (SlideShare)…[Creative Commons Attibution 2.1 Japan](http://creativecommons.org/licenses/by/2.1/jp/)
+- <a href="https://www.slideshare.net/kunishi/sig-wi2-xml-tutorial-presentation" data-proofer-ignore>XML（再）入門</a> (SlideShare)…[Creative Commons Attibution 2.1 Japan](https://creativecommons.org/licenses/by/2.1/jp/)
 - [XMLデータベース（再）入門](20081211wi2_tut_amagasa.pdf)（PDF形式）…Copyright 2008, Toshiyuki Amagasa, All rights reserved.
 - [XML情報検索（再）入門](20081211_wi2_hatano.pdf)（PDF形式）…Copyright 2008, Kenji Hatano, All rights reserved.
 - [グラフ検索（再）入門](20081211SIGWI2tutorial_sakamoto.pdf)（PDF形式）…Copyright 2008, Hiroshi Sakamoto, All rights reserved.
