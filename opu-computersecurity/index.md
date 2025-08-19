@@ -45,5 +45,5 @@ title: 岡山県立大学・講義「情報倫理・セキュリティ」実施�
 - IPUSIRON, [暗号技術のすべて](https://www.shoeisha.co.jp/book/detail/9784798148816), 翔泳社 (2017)
 - 猪俣敦夫, 井上克郎, [サイバーセキュリティ入門: 私たちを取り巻く光と闇](https://www.kyoritsu-pub.co.jp/bookdetail/9784320009066), 共立出版 (2016)
 - 菊池浩明, 上原哲太郎, [IT Text ネットワークセキュリティ](https://shop.ohmsha.co.jp/shopdetail/000000004922/), オーム社 (2017)
-- アンドレアス・M・アントノプロス, [ビットコインとブロックチェーン:暗号通貨を支える技術](https://www.nttpub.co.jp/search/books/detail/100002391), エヌティティ出版 (2016)
+- アンドレアス・M・アントノプロス, [ビットコインとブロックチェーン:暗号通貨を支える技術](https://www.nttpub.co.jp/book/detail/9784757103672/), エヌティティ出版 (2016)
 - アーヴィンド・ナラヤナン, ジョセフ・ボノー, エドワード・W・フェルテン, アンドリュー・ミラー, スティーヴン・ゴールドフェダー, [仮想通貨の教科書](https://www.nikkeibp.co.jp/atclpubmkt/book/16/P85450/), 日経BP社 (2016)
