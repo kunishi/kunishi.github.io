@@ -85,7 +85,7 @@ permalink: /contribution/
 (<a href="http://www.slideshare.net/kunishi/20151126-1" data-proofer-ignore>発表スライド1</a>,
 <a href="http://www.slideshare.net/kunishi/20151210-2" data-proofer-ignore>発表スライド2</a>,
 <a href="http://www.slideshare.net/kunishi/20151224-3" data-proofer-ignore>発表スライド3</a>)
-- [ACM ICPC-2016アジアつくば大会](https://icpc.iisf.or.jp/2016-tsukuba/?lang=ja) 連携委員 (2016年5月〜)
+- [ACM ICPC-2016アジアつくば大会](https://icpc.jp/2016/) 連携委員 (2016年5月〜)
 
 ## Webサイト・Webアプリケーションの構築・運用実績
 
