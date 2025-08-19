@@ -36,7 +36,7 @@ ISBN4-320-02765-5, 共立出版, 1995.11.
 (<a href="https://www.slideshare.net/kunishi/20090925-html5" data-proofer-ignore>発表資料</a>
 1. 國島丈生, チュートリアル「XML（再）入門」,
 電子情報通信学会Webインテリジェンスとインタラクション研究会（SIG WI2）第13回研究会, 横浜・神奈川近代文学館, 2008年12月12日. ([サポートページ](/xmltut200812/)を用意しています)
-1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/Events/taikai24.html), 東京大学駒場キャンパス・生産技術研究所, 2002年11月5日. (<a href="https://www.slideshare.net/kunishi/vldb2002-report200210231500" data-proofer-ignore>発表資料</a>
+1. 國島丈生, VLDB2002国際会議報告, [ACM SIGMOD日本支部第24回支部大会](http://www.sigmodj.org/event/taikai24.html), 東京大学駒場キャンパス・生産技術研究所, 2002年11月5日. (<a href="https://www.slideshare.net/kunishi/vldb2002-report200210231500" data-proofer-ignore>発表資料</a>
 1. 垂水弘幸, 国島丈生. グループウェア・CSCWの研究動向.
 文部省科学研究費重点領域研究「高度データベース」北海道ワークショップ講演論文集, pp.13-30, 北海道, 1997年7月.
 
@@ -61,7 +61,7 @@ The 6th IEEE International Conference on Developmental Learning and Epigenetic R
 <a href="https://scholar.google.co.jp/citations?view_op=view_citation&hl=ja&user=3gaBqWUAAAAJ&cstart=20&pagesize=80&citation_for_view=3gaBqWUAAAAJ:IjCSPb-OGe4C" data-proofer-ignore>*Management and Multimedia Presentation of Heterogeneous Documents*</a>.
 Nontraditional Database Systems (ed. Y. Kambayashi et. al), pp. 146-165, CRC Press, Aug. 2002. [[PDF]](https://www.dropbox.com/s/yxzcd6skq84v25v/068.pdf?dl=0)
 1. Kazumasa Yokota, Takeo Kunishima, and Bojiang Liu.
-*[Semantic Extensions of XML for Advanced Applications](https://dl.acm.org/citation.cfm?id=545626)*.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
+*[Semantic Extensions of XML for Advanced Applications](https://dl.acm.org/doi/10.5555/545617.545626)*.  Australian Computer Science Communications, Volume 23, Number 6 (Proc. Workshop on Information Technology for Vietual Enterprises (ITVE 2001)), pp.49-57, Jan. 2001. (DOI: 10.1145/545617.545626)
 [[PDF]](https://www.dropbox.com/s/xcfg2suohgwtzrw/057.pdf?dl=0)
 1. Kazumasa Yokota and Takeo Kunishima. *Workflow Modeling from a Database Point of View.* <a href="https://www.worldscientific.com/worldscibooks/10.1142/4427#t=aboutBook" data-proofer-ignore>Advances in Multimedia and Databases for the New Century</a>, pp.26-34, World Scientific, Apr. 2000.
 [[PDF]](https://www.dropbox.com/s/c7c2yml5c9pkd79/045.pdf?dl=0)
